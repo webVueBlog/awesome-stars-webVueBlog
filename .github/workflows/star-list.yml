@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Awesome generator
+      - name: star-list
         uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.star_ACCESS_TOKEN }}
