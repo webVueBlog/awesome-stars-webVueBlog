@@ -1,6 +1,6 @@
 <div align="center">
 
-# awesome-stars-eryajf
+# awesome-stars-webVueBlog
 
 [![Auth](https://img.shields.io/badge/Auth-webVueBlog-ff69b4?logo=github)](https://github.com/webVueBlog/awesome-stars-webVueBlog)
 [![GitHub Pull Requests](https://img.shields.io/github/stars/webVueBlog/awesome-stars-webVueBlog?logo=Undertale)](https://github.com/webVueBlog/awesome-stars-webVueBlog/stargazers)
