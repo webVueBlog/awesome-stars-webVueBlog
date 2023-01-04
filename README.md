@@ -295,8 +295,6 @@
 
 *   [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Bootstrap Admin Panel Framework
 
-*   [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
-
 *   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [bripkens/connect-history-api-fallback](https://github.com/bripkens/connect-history-api-fallback) - Fallback to index.html for applications that are using the HTML 5 history API
@@ -441,8 +439,6 @@
 
 *   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 
-*   [module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
-
 *   [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 
 *   [cycjimmy/jsmpeg-player](https://github.com/cycjimmy/jsmpeg-player) - MPEG1 Video Player Based On JSMpeg.
@@ -565,7 +561,7 @@
 
 *   [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 
-*   [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+*   [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 
 *   [befinal/node-tenpay](https://github.com/befinal/node-tenpay) - 微信支付 for nodejs
 
@@ -841,7 +837,7 @@
 
 *   [fluttercandies/flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) - A candlestick chart that supports pinch-to-zoom and panning.
 
-*   [fluttercandies/flutter\_wechat\_assets\_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An assets picker in WeChat style, support multi assets picking.
+*   [fluttercandies/flutter\_wechat\_assets\_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI.
 
 *   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
 
@@ -989,6 +985,8 @@
 
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 
+*   [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
+
 *   [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
@@ -1058,6 +1056,8 @@
 *   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 
 *   [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+
+*   [module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
 
 *   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 
