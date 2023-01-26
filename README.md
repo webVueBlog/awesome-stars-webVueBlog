@@ -1013,7 +1013,7 @@
 
 *   [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
 
-*   [nuxt/framework](https://github.com/nuxt/framework) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+*   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
 
 *   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 
@@ -1171,7 +1171,7 @@
 
 *   [fluttercandies/extended\_text\_field](https://github.com/fluttercandies/extended_text_field) - extended official text field to quickly build special text like inline image, @somebody, custom background etc.
 
-*   [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter plugin to play multiple audio files simultaneously (Android/iOS)
+*   [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
 
 *   [lukepighetti/fluro](https://github.com/lukepighetti/fluro) - Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
 
