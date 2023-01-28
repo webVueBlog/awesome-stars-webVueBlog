@@ -1243,7 +1243,7 @@
 
 *   [varletjs/varlet-vue2](https://github.com/varletjs/varlet-vue2) - Material design mobile component library for Vue2 / 基于 Vue2 的 Material design 风格移动端组件库
 
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3 / 基于 Vue3 的 Material design 风格移动端组件库
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3
 
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 
