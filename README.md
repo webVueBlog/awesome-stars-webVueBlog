@@ -13,8 +13,9 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [JavaScript](#javascript)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
 *   [Objective-C](#objective-c)
@@ -27,7 +28,6 @@
 *   [PHP](#php)
 *   [Go](#go)
 *   [Python](#python)
-*   [C](#c-1)
 *   [Java](#java)
 *   [Rust](#rust)
 *   [OCaml](#ocaml)
@@ -38,6 +38,22 @@
 *   [SCSS](#scss)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## C
+
+*   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+
+*   [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
+
+*   [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
+
+*   [yangkun19921001/AVFFmpegLib](https://github.com/yangkun19921001/AVFFmpegLib) - 移植 FFmpeg 最新版本v4.4-dev-416 + libx264 + freetype + fontconfig + fribidi + openh264  +libfdk-aac + gnutls + speex + libwebp + lame +opus + opencore-amr + https）编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，目前内置了音视频剪辑、编辑、视频拼接、字幕、水印、倒放等功能，也可以根据 ffmpeg 命令模式来进行处理。
+
+*   [yangkun19921001/AVEditor](https://github.com/yangkun19921001/AVEditor) - 这是一款短视频编辑 SDK，仿 DouYin 音视频处理。功能包含有美颜、滤镜、贴纸、特效、录制、分段录制、速率录制、变声、配乐、rtmp 直播推流、图片转视频、剪辑,mp4/flv 格式封装等功能。动态库用的我另一个项目编译好的 https://github.com/yangkun19921001/AVFFmpegLib
+
+*   [yangkun19921001/AVSample](https://github.com/yangkun19921001/AVSample) - 0 基础音视频进阶路线 (MediaCodec、FFmpeg、OpenCV、OpenGL、短视频 SDK、音视频播放器、webrtc)
+
+*   [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 
 ## JavaScript
 
@@ -1225,8 +1241,6 @@
 
 *   [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
 
-*   [vuejs/rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
-
 ## Vue
 
 *   [webVueBlog/vue3-vite-pinia-template](https://github.com/webVueBlog/vue3-vite-pinia-template) - 企业级前端开发与构建框架 Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + ant-design-vueTemplate.
@@ -1402,20 +1416,6 @@
 *   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## C
-
-*   [bytecodealliance/wasm-micro-runtime](https://github.com/bytecodealliance/wasm-micro-runtime) - WebAssembly Micro Runtime (WAMR)
-
-*   [cossacklabs/themis](https://github.com/cossacklabs/themis) - Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.
-
-*   [yangkun19921001/AVFFmpegLib](https://github.com/yangkun19921001/AVFFmpegLib) - 移植 FFmpeg 最新版本v4.4-dev-416 + libx264 + freetype + fontconfig + fribidi + openh264  +libfdk-aac + gnutls + speex + libwebp + lame +opus + opencore-amr + https）编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，目前内置了音视频剪辑、编辑、视频拼接、字幕、水印、倒放等功能，也可以根据 ffmpeg 命令模式来进行处理。
-
-*   [yangkun19921001/AVEditor](https://github.com/yangkun19921001/AVEditor) - 这是一款短视频编辑 SDK，仿 DouYin 音视频处理。功能包含有美颜、滤镜、贴纸、特效、录制、分段录制、速率录制、变声、配乐、rtmp 直播推流、图片转视频、剪辑,mp4/flv 格式封装等功能。动态库用的我另一个项目编译好的 https://github.com/yangkun19921001/AVFFmpegLib
-
-*   [yangkun19921001/AVSample](https://github.com/yangkun19921001/AVSample) - 0 基础音视频进阶路线 (MediaCodec、FFmpeg、OpenCV、OpenGL、短视频 SDK、音视频播放器、webrtc)
-
-*   [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
 
 ## Java
 
