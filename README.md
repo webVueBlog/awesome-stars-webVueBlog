@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [C](#c)
 *   [JavaScript](#javascript)
 *   [C++](#c-1)
@@ -23,7 +24,6 @@
 *   [Vue](#vue)
 *   [CSS](#css)
 *   [Shell](#shell)
-*   [HTML](#html)
 *   [Ruby](#ruby)
 *   [PHP](#php)
 *   [Go](#go)
@@ -38,6 +38,36 @@
 *   [SCSS](#scss)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [mdn/learning-area](https://github.com/mdn/learning-area) - Github repo for the MDN Learning Area.
+
+*   [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) -
+
+*   [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
+
+*   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+
+*   [learn-docs/1024bibi](https://github.com/learn-docs/1024bibi) - 🔥 1024bibi.com bolg https://1024bibi.com/
+
+*   [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
+
+*   [jasl/ueditor\_rails](https://github.com/jasl/ueditor_rails) - \[Abandoned] UEditor integration with Rails
+
+*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+
+*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+
+*   [pagedjs/pagedjs](https://github.com/pagedjs/pagedjs) - Display paginated content in the browser and generate print books using web technology
+
+*   [aui/pinyin-engine](https://github.com/aui/pinyin-engine) - JavaScript 拼音匹配引擎
+
+*   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
+
+*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+
+*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 
 ## C
 
@@ -727,8 +757,6 @@
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (November 2022)
 
-*   [youzan/weapp-plugin-demo](https://github.com/youzan/weapp-plugin-demo) - 有赞微商城所有小程序插件的演示demo
-
 ## C++
 
 *   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - :wrench: Cross-platform Developer GUI for Redis
@@ -1338,34 +1366,6 @@
 *   [learn-docs/learn-TypeScript](https://github.com/learn-docs/learn-TypeScript) - 🔥 learn-TypeScript 文档 https://learn-docs.github.io/learn-TypeScript/
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-## HTML
-
-*   [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) -
-
-*   [jashkenas/docco](https://github.com/jashkenas/docco) - Literate Programming can be Quick and Dirty.
-
-*   [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
-
-*   [learn-docs/1024bibi](https://github.com/learn-docs/1024bibi) - 🔥 1024bibi.com bolg https://1024bibi.com/
-
-*   [leizongmin/js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
-
-*   [jasl/ueditor\_rails](https://github.com/jasl/ueditor_rails) - \[Abandoned] UEditor integration with Rails
-
-*   [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-
-*   [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-*   [pagedjs/pagedjs](https://github.com/pagedjs/pagedjs) - Display paginated content in the browser and generate print books using web technology
-
-*   [aui/pinyin-engine](https://github.com/aui/pinyin-engine) - JavaScript 拼音匹配引擎
-
-*   [sindresorhus/screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
-
-*   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
-
-*   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 
 ## Ruby
 
