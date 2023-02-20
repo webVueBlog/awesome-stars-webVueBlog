@@ -41,6 +41,8 @@
 
 ## JavaScript
 
+*   [luzhixing12345/ChatRoom](https://github.com/luzhixing12345/ChatRoom) - 微信小程序 在线聊天
+
 *   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 
 *   [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
@@ -713,8 +715,6 @@
 
 *   [AlloyTeam/curvejs](https://github.com/AlloyTeam/curvejs) - Made curve a dancer in HTML5 canvas - 魔幻线条
 
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
 ## miscellaneous
 
 *   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
@@ -903,7 +903,7 @@
 
 *   [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
 
-*   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling base-on Volar.js
+*   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 
 *   [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
 
