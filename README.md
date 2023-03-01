@@ -11,6 +11,419 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
 </div><br>
 
+## 入门书籍
+
+*   [《明解Java》](https://www.coderxing.com/r.php?r=https://u.jd.com/TA6z3m) - 豆瓣评分 8.5
+*   [《Java从入门到精通（第4版 附光盘）》](https://www.coderxing.com/r.php?r=https://u.jd.com/7urNtH) - 豆瓣评分 6
+*   [《入门很简单丛书：Java Web开发入门很简单》](https://www.coderxing.com/r.php?r=https://u.jd.com/2dDnsY)
+*   [《程序员炼成记 从小白到工程师》](https://www.coderxing.com/r.php?r=https://u.jd.com/7zm17P)
+*   [《Java从小白到大牛》](https://www.coderxing.com/r.php?r=https://u.jd.com/ZCbVjQ)
+*   [《JavaWeb项目开发实战入门（全彩版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/mnkAJR)
+*   [《Java精彩编程200例（全彩版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/9TGA0S)
+*   [《Java轻松学》](https://www.coderxing.com/r.php?r=https://u.jd.com/zMDeI7)
+*   [《大话Java：程序设计从入门到精通（含DVD光盘1张）》](https://www.coderxing.com/r.php?r=https://u.jd.com/td3bUo)
+*   [《Java语言袖珍指南（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/HOFu01)
+
+## 基础书籍
+
+*   [《Java编程思想（第4版） \[thinking in java\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/ajylTp) - 豆瓣评分 9.1
+*   [《Java核心技术 卷I：基础知识（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/tp87o1) - 豆瓣评分 8.2
+*   [《Java核心技术卷II：高级特性（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/fYGMsC) - 豆瓣评分 7.7
+
+### 多线程与并发
+
+*   [《华章专业开发者丛书·Java并发编程实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/ERgtGV) - 豆瓣评分 9.1
+*   [《Java多线程编程实战指南（设计模式篇）》](https://www.coderxing.com/r.php?r=https://u.jd.com/XRUB8H) - 豆瓣评分 8.5
+*   [《图解Java多线程设计模式》](https://www.coderxing.com/r.php?r=https://u.jd.com/LDOFjh) - 豆瓣评分 8.4
+*   [《实战Java高并发程序设计》](https://www.coderxing.com/r.php?r=https://u.jd.com/WXhQuO) - 豆瓣评分 8.3
+*   [《Java高并发编程详解：多线程与架构设计》](https://www.coderxing.com/r.php?r=https://u.jd.com/e5tZdf) - 豆瓣评分 7.6
+*   [《Java核心技术系列：Java多线程编程核心技术 \[Java Multi-thread Programming\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/5p2KoJ) - 豆瓣评分 5.1
+*   [《Java并发编程：核心方法与框架》](https://www.coderxing.com/r.php?r=https://u.jd.com/RQu2W6)
+*   [《Java多线程与Socket：实战微服务框架》](https://www.coderxing.com/r.php?r=https://u.jd.com/fkn9NP)
+*   [《NIO与Socket编程技术指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/ZwyPCp)
+*   [《Java并发编程之美》](https://www.coderxing.com/r.php?r=https://u.jd.com/vB6BA2)
+*   [《实战Java高并发程序设计（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/fthTzf)
+
+### 网络编程
+
+*   [《Java网络编程（第四版） \[Java network programming, forth edition\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/osowEq) - 豆瓣评分 7.6
+
+### 数据结构
+
+*   [《数据结构与算法分析：Java语言描述（原书第3版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/wdrJls) - 豆瓣评分 8.3
+*   [《图解数据结构：使用Java》](https://www.coderxing.com/r.php?r=https://u.jd.com/9GKS26)
+*   [《数据结构与算法Java语言描述》](https://www.coderxing.com/r.php?r=https://u.jd.com/DCJzy6)
+
+### 语言基础
+
+*   [《Java 8实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/MNwLHg) - 豆瓣评分 9.2
+*   [《Java函数式编程》](https://www.coderxing.com/r.php?r=https://u.jd.com/M6XqLp) - 豆瓣评分 8.9
+*   [《Java编程的逻辑》](https://www.coderxing.com/r.php?r=https://u.jd.com/YApFXv) - 豆瓣评分 8.9
+*   [《O'Reilly：Head First Java（中文版 第2版 涵盖Java5.0）》](https://www.coderxing.com/r.php?r=https://u.jd.com/UZgI0F) - 豆瓣评分 8.7
+*   [《写给大忙人看的Java核心技术》](https://www.coderxing.com/r.php?r=https://u.jd.com/ZCMWOr) - 豆瓣评分 7.1
+*   [《精通lambda表达式：Java多核编程 \[Mastering Lambdas: Java Programming in a Multicore\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/ajoGad)
+*   [《Java 9模块化开发：核心原则与实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/5HXsKg)
+*   [《Java JDK 9学习笔记》](https://www.coderxing.com/r.php?r=https://u.jd.com/l7fy1C)
+*   [《Java 9编程参考官方大全（第10版） \[Java：Thte Complete Reference，Tenth Edition\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/CqmtBM)
+*   [《写给大忙人的Java SE 9核心技术》](https://www.coderxing.com/r.php?r=https://u.jd.com/JMdy64)
+
+## 进阶
+
+*   [《深入分析Java Web技术内幕（修订版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/MBhyO7) - 豆瓣评分 7.5
+*   [《Java RESTful Web Service实战（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/GEdlD0)
+
+### 性能优化
+
+*   [《Java性能优化权威指南 \[Java performance\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/qTFNCP) - 豆瓣评分 8.4
+*   [《Java程序性能优化：让你的Java程序更快、更稳定》](https://www.coderxing.com/r.php?r=https://u.jd.com/6CYRQi) - 豆瓣评分 8.1
+*   [《Java性能权威指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/KmJo2x) - 豆瓣评分 8.1
+*   [《51CTO学院系列丛书·实战Java虚拟机：JVM故障诊断与性能优化》](https://www.coderxing.com/r.php?r=https://u.jd.com/GKe55M) - 豆瓣评分 8
+*   [《Java性能调优指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/sQPN8w) - 豆瓣评分 7
+*   [《大话Java性能优化》](https://www.coderxing.com/r.php?r=https://u.jd.com/Uqaj5n) - 豆瓣评分 4.4
+
+### 响应式编程
+
+*   [《响应式架构：消息模式Actor实现与Scala、Akka应用集成》](https://www.coderxing.com/r.php?r=https://u.jd.com/nvsfLb) - 豆瓣评分 8.1
+*   [《RxJava响应式编程》](https://www.coderxing.com/r.php?r=https://u.jd.com/HeIp16)
+*   [《RxJava 2.x 实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/iIZc0A)
+
+### JVM虚拟机
+
+*   [《深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/DgTnN2) - 豆瓣评分 8.9
+*   [《Java核心技术系列：Java虚拟机规范（Java SE 8版） \[The Java Virtual Machine Specification Jave SE 8 Edition\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/73DIJB) - 豆瓣评分 8.3
+*   [《揭秘Java虚拟机：JVM设计原理与实现》](https://www.coderxing.com/r.php?r=https://u.jd.com/ct4KRw) - 豆瓣评分 7.9
+*   [《HotSpot实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/xJZjRH) - 豆瓣评分 7.1
+*   [《Java从入门到动手写虚拟机1（套装共2册）》](https://www.coderxing.com/r.php?r=https://u.jd.com/0ZMjqZ)
+
+### 代码&设计优化
+
+*   [《重构 改善既有代码的设计 Java语言版》](https://www.coderxing.com/r.php?r=https://u.jd.com/QSoCEv) - 豆瓣评分 9.3
+*   [《代码大全（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/wxQc3i) - 豆瓣评分 9.3
+*   [《Effective Java中文版（原书第3版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/syzAFD) - 豆瓣评分 9
+*   [《代码整洁之道 程序员的职业素养》](https://www.coderxing.com/r.php?r=https://u.jd.com/Rt31CM) - 豆瓣评分 8.8
+*   [《代码整洁之道 \[Clean Code A Handbook of Agile Software Craftsmanship\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/XBQxz8) - 豆瓣评分 8.6
+*   [《Spring实战（第4版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/ld8p0r) - 豆瓣评分 8.3
+*   [《代码不朽：编写可维护软件的10大要则（Java版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/0hnAnw) - 豆瓣评分 7
+*   [《Java代码与架构之完美优化 实战经典》](https://www.coderxing.com/r.php?r=https://u.jd.com/tyYWro)
+
+## 设计模式
+
+*   [《反应式设计模式》](https://www.coderxing.com/r.php?r=https://u.jd.com/SJWtpV) - 豆瓣评分 9.3
+*   [《O'Reilly：Head First设计模式（中文版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/IGKmVq) - 豆瓣评分 9.2
+*   [《设计模式：可复用面向对象软件的基础》](https://www.coderxing.com/r.php?r=https://u.jd.com/D59mge) - 豆瓣评分 9.1
+*   [《实现领域驱动设计 \[Implementing Domain-Driven Design\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/lFwQdc) - 豆瓣评分 8.7
+*   [《原创精品系列：设计模式之禅（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/yxTBEJ) - 豆瓣评分 8.7
+*   [《图解设计模式》](https://www.coderxing.com/r.php?r=https://u.jd.com/H9tRFl) - 豆瓣评分 8.7
+*   [《大话设计模式》](https://www.coderxing.com/r.php?r=https://u.jd.com/qfAaGS) - 豆瓣评分 8.3
+*   [《领域驱动设计 软件核心复杂性应对之道 修订版》](https://www.coderxing.com/r.php?r=https://u.jd.com/PllZtF) - 豆瓣评分 8
+*   [《Java测试驱动开发》](https://www.coderxing.com/r.php?r=https://u.jd.com/xRo8Ur) - 豆瓣评分 6.6
+
+## 框架与中间件
+
+### 数据库
+
+*   [《高性能MySQL（第3版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/i4KCQO) - 豆瓣评分 9.3
+*   [《MySQL技术内幕：InnoDB存储引擎（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/Th90ra) - 豆瓣评分 8.6
+*   [《大型网站系统与Java中间件实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/YivOvQ) - 豆瓣评分 7.9
+*   [《深入浅出MySQL 数据库开发 优化与管理维护 第2版》](https://www.coderxing.com/r.php?r=https://u.jd.com/HjaHc2) - 豆瓣评分 7.5
+*   [《PostgreSQL修炼之道：从小工到专家》](https://www.coderxing.com/r.php?r=https://u.jd.com/oYHlHw) - 豆瓣评分 7.3
+*   [《PostgreSQL技术内幕：查询优化深度探索》](https://www.coderxing.com/r.php?r=https://u.jd.com/hKsMRX)
+
+### 缓存与NoSQL
+
+*   [《Redis 深度历险：核心原理与应用实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/uZirI6) - 豆瓣评分 9
+*   [《Redis实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/VMo7w2) - 豆瓣评分 8
+*   [《Redis入门指南（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/GmFr7B) - 豆瓣评分 7.6
+*   [《深入分布式缓存：从原理到实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/TKeCR2) - 豆瓣评分 7.1
+*   [《人人都是架构师：分布式系统架构落地与瓶颈突破》](https://www.coderxing.com/r.php?r=https://u.jd.com/8DuE9W) - 豆瓣评分 6.7
+*   [《MongoDB应用设计模式》](https://www.coderxing.com/r.php?r=https://u.jd.com/qd9tLA) - 豆瓣评分 6.1
+*   [《MongoDB实战 架构、开发与管理》](https://www.coderxing.com/r.php?r=https://u.jd.com/Mlefug)
+*   [《NoSQL数据库入门与实践（基于MongoDB、Redis）》](https://www.coderxing.com/r.php?r=https://u.jd.com/1QhhB6)
+
+### 消息队列
+
+*   [《RabbitMQ实战指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/4SyxGo) - 豆瓣评分 9.1
+*   [《Kafka权威指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/qIwmGY) - 豆瓣评分 8.9
+*   [《Kafka入门与实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/hqBGgy) - 豆瓣评分 7.7
+*   [《RocketMQ实战与原理解析》](https://www.coderxing.com/r.php?r=https://u.jd.com/vyU3eK) - 豆瓣评分 7.2
+*   [《Kafka技术内幕 图文详解Kafka源码设计与实现》](https://www.coderxing.com/r.php?r=https://u.jd.com/GZh0yK) - 豆瓣评分 6.9
+*   [《深入理解Kafka：核心设计与实践原理》](https://www.coderxing.com/r.php?r=https://u.jd.com/sTtFQn)
+*   [《分布式消息中间件实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/GzBNOZ)
+
+### ORM框架
+
+*   [《MyBatis从入门到精通》](https://www.coderxing.com/r.php?r=https://u.jd.com/0GXsRh) - 豆瓣评分 7.7
+
+### Spring家族
+
+*   [《Spring微服务实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/ohN8uh) - 豆瓣评分 8.3
+*   [《Spring Cloud微服务实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/z1QvAP) - 豆瓣评分 7.9
+*   [《深入理解Spring Cloud与微服务构建》](https://www.coderxing.com/r.php?r=https://u.jd.com/FfCbxt) - 豆瓣评分 7.7
+*   [《MyBatis技术内幕》](https://www.coderxing.com/r.php?r=https://u.jd.com/wAPeEw) - 豆瓣评分 7.6
+*   [《Spring Boot实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/BcQznU) - 豆瓣评分 7.2
+*   [《深入浅出Spring Boot 2.x》](https://www.coderxing.com/r.php?r=https://u.jd.com/k0xgoA) - 豆瓣评分 7
+*   [《JavaEE开发的颠覆者：Spring Boot实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/4Rtvg3) - 豆瓣评分 6.3
+*   [《Spring技术内幕：深入解析Spring架构与设计原理（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/2rz8BY) - 豆瓣评分 5.9
+*   [《Spring Boot 2精髓：从构建小系统到架构分布式大系统》](https://www.coderxing.com/r.php?r=https://u.jd.com/xrNcv1) - 豆瓣评分 4.8
+*   [《Spring 5开发大全》](https://www.coderxing.com/r.php?r=https://u.jd.com/dtDOqc)
+*   [《Spring Cloud微服务架构进阶》](https://www.coderxing.com/r.php?r=https://u.jd.com/oFsaYt)
+*   [《Spring源码深度解析 第2版》](https://www.coderxing.com/r.php?r=https://u.jd.com/SdhhtK)
+*   [《Spring MVC实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/ghc04R)
+*   [《Spring Boot编程思想（核心篇）（限量版亲笔签名书签 随机发售）》](https://www.coderxing.com/r.php?r=https://u.jd.com/fCZpVU)
+*   [《互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析》](https://www.coderxing.com/r.php?r=https://u.jd.com/HO244A)
+*   [《Spring学习指南 第3版》](https://www.coderxing.com/r.php?r=https://u.jd.com/O9L5Nb)
+*   [《精通Spring MVC 4》](https://www.coderxing.com/r.php?r=https://u.jd.com/k4WSg3)
+
+### 高并发
+
+*   [《Netty实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/htIJgi) - 豆瓣评分 7.8
+*   [《七周七并发模型》](https://www.coderxing.com/r.php?r=https://u.jd.com/81Pbod) - 豆瓣评分 7.8
+*   [《Netty权威指南（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/7tGXx5) - 豆瓣评分 6.9
+*   [《Netty进阶之路：跟着案例学Netty》](https://www.coderxing.com/r.php?r=https://u.jd.com/VBYLE0)
+
+### 分布式
+
+*   [《从Paxos到Zookeeper分布式一致性原理与实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/3rp1Hv) - 豆瓣评分 7.8
+*   [《ZooKeeper：分布式过程协同技术详解》](https://www.coderxing.com/r.php?r=https://u.jd.com/LAyupw) - 豆瓣评分 7.2
+
+### 搜索引擎
+
+*   [《从Lucene到Elasticsearch：全文检索实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/IdftoH)
+
+### 大数据
+
+*   [《Hadoop权威指南：大数据的存储与分析(第4版)》](https://www.coderxing.com/r.php?r=https://u.jd.com/BlEDc7) - 豆瓣评分 8.7
+*   [《Hadoop构建数据仓库实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/dW1kpa) - 豆瓣评分 8.3
+*   [《HBase权威指南 \[HBase： The Definitive Guide\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/wqb9z0) - 豆瓣评分 8.1
+*   [《图解Spark：核心技术与案例实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/azPD8S) - 豆瓣评分 7.6
+*   [《Hive编程指南 \[Programming Hive\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/bd1YCS) - 豆瓣评分 7.4
+*   [《HBase应用架构》](https://www.coderxing.com/r.php?r=https://u.jd.com/kFRuj2)
+
+## 架构
+
+*   [《Web性能权威指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/pTZ8xk) - 豆瓣评分 8.8
+*   [《从零开始学架构：照着做，你也能成为架构师》](https://www.coderxing.com/r.php?r=https://u.jd.com/7tOuAz) - 豆瓣评分 8.5
+*   [《Java应用架构设计：模块化模式与OSGi》](https://www.coderxing.com/r.php?r=https://u.jd.com/Qs9SXn) - 豆瓣评分 6.9
+*   [《大型网站技术架构演进与性能优化》](https://www.coderxing.com/r.php?r=https://u.jd.com/GVYZr9) - 豆瓣评分 6.8
+*   [《高可用架构（第1卷）》](https://www.coderxing.com/r.php?r=https://u.jd.com/7y5NpR) - 豆瓣评分 6.3
+*   [《Java架构师指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/kPGIoj)
+*   [《大话代码架构（项目实战版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/Bc2TLN)
+*   [《小团队构建大网站：中小研发团队架构实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/mzqn7f)
+*   [《未来架构 从服务化到云原生(限量签名 随机发放)》](https://www.coderxing.com/r.php?r=https://u.jd.com/zDMNQs)
+
+### 分布式架构
+
+*   [《可伸缩架构：面向增长应用的高可用》](https://www.coderxing.com/r.php?r=https://u.jd.com/zpE3MI) - 豆瓣评分 7.4
+*   [《分布式服务架构：原理、设计与实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/HQHcMY) - 豆瓣评分 7.2
+*   [《亿级流量网站架构核心技术 跟开涛学搭建高可用高并发系统》](https://www.coderxing.com/r.php?r=https://u.jd.com/9JXTi8) - 豆瓣评分 6.6
+*   [《大型分布式网站架构设计与实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/zzctjK) - 豆瓣评分 6.2
+*   [《可伸缩服务架构：框架与中间件》](https://www.coderxing.com/r.php?r=https://u.jd.com/l4UA35) - 豆瓣评分 5.9
+*   [《架构探险：从零开始写分布式服务框架》](https://www.coderxing.com/r.php?r=https://u.jd.com/1YUJxK) - 豆瓣评分 5.9
+*   [《Cloud Native分布式架构原理与实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/4trb76)
+*   [《分布式系统常用技术及案例分析（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/QWumiy)
+*   [《云原生Java：Spring Boot、Spring Cloud与Cloud Foundry弹性系统设计》](https://www.coderxing.com/r.php?r=https://u.jd.com/53hDaR)
+
+### 微服务架构
+
+*   [《微服务设计》](https://www.coderxing.com/r.php?r=https://u.jd.com/5KB81a) - 豆瓣评分 8.2
+*   [《生产微服务》](https://www.coderxing.com/r.php?r=https://u.jd.com/LF3vzd) - 豆瓣评分 8
+*   [《架构解密：从分布式到微服务》](https://www.coderxing.com/r.php?r=https://u.jd.com/xoCkW1) - 豆瓣评分 5.8
+*   [《Java微服务》](https://www.coderxing.com/r.php?r=https://u.jd.com/jk1V1F) - 豆瓣评分 5.3
+*   [《Spring Cloud 微服务架构开发实战（全新升级版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/QvfyPI)
+*   [《微服务实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/DyZQbc)
+
+### 架构方法论
+
+*   [《架构整洁之道》](https://www.coderxing.com/r.php?r=https://u.jd.com/k8yxj0) - 豆瓣评分 8.8
+*   [《企业应用架构模式 \[Patterns of Enterprise Application Architecture\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/pQOd7z) - 豆瓣评分 8.3
+*   [《企业IT架构转型之道 阿里巴巴中台战略思想与架构实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/ipHhzt) - 豆瓣评分 8.2
+*   [《聊聊“架构”》](https://www.coderxing.com/r.php?r=https://u.jd.com/jRMw2b) - 豆瓣评分 7.6
+*   [《架构真经：互联网技术架构的设计原则（原书第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/1gr9nd) - 豆瓣评分 7.5
+*   [《软件架构设计：程序员向架构师转型必备（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/4Y77J0) - 豆瓣评分 7.4
+*   [《恰如其分的软件架构 \[Just Enough Software Architecture\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/XOr8py) - 豆瓣评分 7.3
+*   [《软件架构设计：大型网站技术架构与业务架构融合之道》](https://www.coderxing.com/r.php?r=https://u.jd.com/lSUYn8)
+
+## JVM周边语言
+
+*   [《Scala编程（第3版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/R0JT1a) - 豆瓣评分 9.4
+*   [《Groovy程序设计》](https://www.coderxing.com/r.php?r=https://u.jd.com/AMZkGX) - 豆瓣评分 8.2
+*   [《快学Scala（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/h6Gnct) - 豆瓣评分 8
+*   [《Kotlin极简教程》](https://www.coderxing.com/r.php?r=https://u.jd.com/loJfwO)
+*   [《Scala集合技术手册》](https://www.coderxing.com/r.php?r=https://u.jd.com/WvMNgs)
+
+## 项目管理&领导力&流程
+
+*   [《构建之法 现代软件工程（第三版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/5OmcTI) - 豆瓣评分 9
+*   [《精益思想（白金版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/gcHfSY) - 豆瓣评分 8.2
+*   [《给产品经理讲技术》](https://www.coderxing.com/r.php?r=https://u.jd.com/uZ2nZV)
+
+### 项目管理
+
+*   [《持续交付：发布可靠软件的系统方法》](https://www.coderxing.com/r.php?r=https://u.jd.com/TzKtiz) - 豆瓣评分 8.7
+*   [《名家经典系列：人件（原书第3版） \[Peopleware: Productive Projects and Teams\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/qEOLhm) - 豆瓣评分 8.4
+*   [《硝烟中的Scrum和XP：我们如何实施Scrum》](https://www.coderxing.com/r.php?r=https://u.jd.com/gc719a) - 豆瓣评分 8.4
+*   [《敏捷软件开发实践 估算与计划》](https://www.coderxing.com/r.php?r=https://u.jd.com/ZHeyFS) - 豆瓣评分 8.4
+*   [《人月神话（40周年中文纪念版） \[The Mythical Man-Month：Essays on Software Engineering Anniversary Edition\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/mUkwcD) - 豆瓣评分 8.3
+*   [《Scrum敏捷软件开发》](https://www.coderxing.com/r.php?r=https://u.jd.com/T9HSMS) - 豆瓣评分 8
+*   [《用户故事与敏捷方法 \[User Stories Applied:For Agile Software Development\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/D8oZoG) - 豆瓣评分 8
+*   [《用户故事地图 \[User Story Mapping\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/P6RDR3) - 豆瓣评分 7.4
+*   [《知行合一 实现价值驱动的敏捷和精益开发》](https://www.coderxing.com/r.php?r=https://u.jd.com/1zgjNd)
+*   [《互联网项目管理实践精粹》](https://www.coderxing.com/r.php?r=https://u.jd.com/Dtrvqn)
+
+### 团队管理
+
+*   [《卓有成效的管理者（珍藏版） \[The Effective Executive\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/f2kMe8) - 豆瓣评分 8.8
+*   [《跃迁：从技术到管理的硅谷路径》](https://www.coderxing.com/r.php?r=https://u.jd.com/xLBU9J) - 豆瓣评分 8.4
+*   [《告别失控 软件开发团队管理必读》](https://www.coderxing.com/r.php?r=https://u.jd.com/w4p97S) - 豆瓣评分 7.9
+*   [《赋能：打造应对不确定性的敏捷团队 \[Team of Teams\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/K5DiJn) - 豆瓣评分 7.6
+*   [《OKR工作法：谷歌、领英等顶级公司的高绩效秘籍 \[Radical Focus\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/8Gsrin) - 豆瓣评分 7.6
+*   [《CTO说》](https://www.coderxing.com/r.php?r=https://u.jd.com/PchUJJ) - 豆瓣评分 7.3
+*   [《轻流程 IT团队的积分式绩效管理》](https://www.coderxing.com/r.php?r=https://u.jd.com/wGQe5I) - 豆瓣评分 7
+*   [《技术领导力：程序员如何才能带团队》](https://www.coderxing.com/r.php?r=https://u.jd.com/spqdp1) - 豆瓣评分 5.4
+*   [《敏捷文化：如何打造优秀的高效能团队 \[The Agile Culture: Leading through Trust and Owner\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/pSHHhA)
+
+## 数学与算法
+
+### 数学
+
+*   [《数学之美（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/lcuOQq) - 豆瓣评分 8.9
+*   [《程序员的数学2 概率统计》](https://www.coderxing.com/r.php?r=https://u.jd.com/Yte3WW) - 豆瓣评分 8.7
+*   [《程序员的数学3 线性代数》](https://www.coderxing.com/r.php?r=https://u.jd.com/WiKN9k) - 豆瓣评分 8.6
+*   [《程序员的数学》](https://www.coderxing.com/r.php?r=https://u.jd.com/iwv4Zd) - 豆瓣评分 7.2
+*   [《程序员的数学思维修炼（趣味解读）》](https://www.coderxing.com/r.php?r=https://u.jd.com/qhD5IJ) - 豆瓣评分 5.4
+*   [《统计之美：人工智能时代的科学思维》](https://www.coderxing.com/r.php?r=https://u.jd.com/vBLDyU)
+*   [《统计思维：程序员数学之概率统计（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/iCEv9a)
+
+### 算法
+
+*   [《算法导论（原书第3版）/计算机科学丛书 \[Introduction to Algorithms, third edition\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/AmwANr) - 豆瓣评分 9.3
+*   [《算法图解》](https://www.coderxing.com/r.php?r=https://u.jd.com/J7HWa6) - 豆瓣评分 8.4
+*   [《漫画算法：小灰的算法之旅（全彩）》](https://www.coderxing.com/r.php?r=https://u.jd.com/Jt8KBI)
+
+## 职业素养与个人成长
+
+*   [《我编程，我快乐：程序员职业规划之道》](https://www.coderxing.com/r.php?r=https://u.jd.com/DGNxfn) - 豆瓣评分 7.9
+*   [《程序员的自我修养》](https://www.coderxing.com/r.php?r=https://u.jd.com/THQJSq) - 豆瓣评分 6.5
+
+### 职业素养提升
+
+*   [《码农翻身：用故事给技术加点料》](https://www.coderxing.com/r.php?r=https://u.jd.com/J7iABA) - 豆瓣评分 9.1
+*   [《程序员修炼之道：从小工到专家》](https://www.coderxing.com/r.php?r=https://u.jd.com/TL272C) - 豆瓣评分 8.8
+*   [《极客与团队：软件工程师的团队生存秘笈》](https://www.coderxing.com/r.php?r=https://u.jd.com/mAbLoA) - 豆瓣评分 8.3
+*   [《程序员思维修炼(修订版)》](https://www.coderxing.com/r.php?r=https://u.jd.com/8l5o8l) - 豆瓣评分 8.2
+*   [《高效能程序员的修炼》](https://www.coderxing.com/r.php?r=https://u.jd.com/s1OiZc) - 豆瓣评分 8.2
+*   [《O'Reilly：卓有成效的程序员 \[Productive programmer\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/XxVx3J) - 豆瓣评分 8.1
+*   [《Java工程师修炼之道》](https://www.coderxing.com/r.php?r=https://u.jd.com/ODjq2h) - 豆瓣评分 7.8
+*   [《程序员的成长课》](https://www.coderxing.com/r.php?r=https://u.jd.com/DKrbwc) - 豆瓣评分 7.6
+*   [《高效程序员的45个习惯：敏捷开发修炼之道(修订版)》](https://www.coderxing.com/r.php?r=https://u.jd.com/y36OqE) - 豆瓣评分 7.6
+*   [《温伯格技术思想三部曲：颠覆完美软件 软件测试必须知道的几件事》](https://www.coderxing.com/r.php?r=https://u.jd.com/JKgll1) - 豆瓣评分 7.5
+*   [《温伯格技术思想三部曲：程序开发心理学（银年纪念版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/0K8XDo) - 豆瓣评分 7.4
+*   [《软件开发本质论：追求简约、体现价值、逐步构建》](https://www.coderxing.com/r.php?r=https://u.jd.com/AlxMcW) - 豆瓣评分 7.3
+*   [《内外兼修：程序员的成长之路》](https://www.coderxing.com/r.php?r=https://u.jd.com/W0uA76) - 豆瓣评分 6.6
+
+### 个人软技能
+
+*   [《把时间当作朋友（第3版 全彩）》](https://www.coderxing.com/r.php?r=https://u.jd.com/I3D7Z0) - 豆瓣评分 8.5
+*   [《暗时间》](https://www.coderxing.com/r.php?r=https://u.jd.com/GZgwi5) - 豆瓣评分 8.4
+*   [《关键对话：如何高效能沟通（原书第2版） \[Crucial Conversations: Tools for Talking When Stak\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/jpIkyt) - 豆瓣评分 8.1
+*   [《温伯格技术思想三部曲：成为技术领导者 掌握全面解决问题的方法》](https://www.coderxing.com/r.php?r=https://u.jd.com/N6YwQD) - 豆瓣评分 8
+*   [《软技能 代码之外的生存指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/KkL3kA) - 豆瓣评分 8
+*   [《程序员健康指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/8YQH5T) - 豆瓣评分 7.5
+*   [《如何把事情做到最好：改变全球9800万人的人生指导书 \[Mastery\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/NS6cLf) - 豆瓣评分 7.2
+*   [《程序员的英语》](https://www.coderxing.com/r.php?r=https://u.jd.com/Gt5VDT) - 豆瓣评分 5.9
+*   [《高效能人士的七个习惯（30周年纪念版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/oG641c)
+
+## 大厂出品
+
+### 阿里巴巴技术丛书
+
+*   [《码出高效：Java开发手册》](https://www.coderxing.com/r.php?r=https://u.jd.com/mIi1ic) - 豆瓣评分 8.8
+*   [《大数据之路 阿里巴巴大数据实践》](https://www.coderxing.com/r.php?r=https://u.jd.com/4888rh) - 豆瓣评分 7.8
+*   [《技术之瞳 阿里巴巴技术笔试心得》](https://www.coderxing.com/r.php?r=https://u.jd.com/xHqHfG) - 豆瓣评分 7.7
+*   [《淘宝技术这十年》](https://www.coderxing.com/r.php?r=https://u.jd.com/uZYvrV) - 豆瓣评分 7.3
+*   [《尽在双11 阿里巴巴技术演进与超越》](https://www.coderxing.com/r.php?r=https://u.jd.com/VA9xEV) - 豆瓣评分 7.1
+*   [《逆流而上：阿里巴巴技术成长之路》](https://www.coderxing.com/r.php?r=https://u.jd.com/5NdzxY) - 豆瓣评分 6.9
+
+### 京东技术丛书
+
+*   [《京东基础架构建设之路（全彩）》](https://www.coderxing.com/r.php?r=https://u.jd.com/ET1NkI) - 豆瓣评分 6.2
+*   [《京东系统质量保障技术实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/0OOBCc) - 豆瓣评分 6.1
+*   [《京东技术解密》](https://www.coderxing.com/r.php?r=https://u.jd.com/V6tLFs) - 豆瓣评分 6.1
+
+## 工具书
+
+*   [《Linux命令行与shell脚本编程大全（第3版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/5U9zkK) - 豆瓣评分 9.1
+*   [《阿里巴巴Java开发手册》](https://www.coderxing.com/r.php?r=https://u.jd.com/28U5lx) - 豆瓣评分 8.3
+*   [《SQL即查即用 （全彩版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/d5ADPR)
+*   [《Linux命令速查手册（第三版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/VgrIgv)
+
+## 面试求职
+
+*   [《剑指Offer：名企面试官精讲典型编程题（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/IgfC55) - 豆瓣评分 9.1
+*   [《编程之美：微软技术面试心得》](https://www.coderxing.com/r.php?r=https://u.jd.com/E4WimD) - 豆瓣评分 8.4
+*   [《Java程序员面试笔试宝典》](https://www.coderxing.com/r.php?r=https://u.jd.com/UqcYlU) - 豆瓣评分 7.6
+*   [《Java程序员面试宝典（第4版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/tm79JE) - 豆瓣评分 5
+*   [《编程之法：面试和算法心得》](https://www.coderxing.com/r.php?r=https://u.jd.com/7ujWIz)
+*   [《Java程序员面试算法宝典》](https://www.coderxing.com/r.php?r=https://u.jd.com/eE9uWg)
+*   [《Java程序员面试笔试真题库》](https://www.coderxing.com/r.php?r=https://u.jd.com/Jc9Xlt)
+*   [《Java程序员面试笔试真题与解析》](https://www.coderxing.com/r.php?r=https://u.jd.com/VqoEj5)
+*   [《Java核心技术及面试指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/pfIsU6)
+*   [《解忧程序员：高薪编程、求职面试与成长转型宝典》](https://www.coderxing.com/r.php?r=https://u.jd.com/j0XMdh)
+
+## 格局与视野
+
+*   [《全球科技通史》](https://www.coderxing.com/r.php?r=https://u.jd.com/bgG9yE) - 豆瓣评分 9.4
+*   [《浪潮之巅 第三版 套装上下册》](https://www.coderxing.com/r.php?r=https://u.jd.com/koCTxD) - 豆瓣评分 9.3
+*   [《黑客与画家：硅谷创业之父Paul Graham文集 \[Hackers and Painters Big Ldeas From the Computer Age\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/KbwmLQ) - 豆瓣评分 8.8
+*   [《软件随想录 卷1》](https://www.coderxing.com/r.php?r=https://u.jd.com/EcKZym) - 豆瓣评分 8.8
+*   [《软件随想录 卷2》](https://www.coderxing.com/r.php?r=https://u.jd.com/px8Sgu) - 豆瓣评分 8.7
+*   [《编程人生：15位软件先驱访谈录》](https://www.coderxing.com/r.php?r=https://u.jd.com/6jRwgY) - 豆瓣评分 8.5
+*   [《大教堂与集市（最新版） \[The Cathedral & the Bazaar\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/6Y4Mcd) - 豆瓣评分 8.4
+*   [《硅谷之谜：浪潮之巅 续集》](https://www.coderxing.com/r.php?r=https://u.jd.com/3yyV1D) - 豆瓣评分 8.4
+*   [《原则 \[Principles\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/M7OrgY) - 豆瓣评分 8.4
+*   [《精益创业》](https://www.coderxing.com/r.php?r=https://u.jd.com/PxHueV) - 豆瓣评分 8.4
+*   [《态度：吴军博士新书》](https://www.coderxing.com/r.php?r=https://u.jd.com/rdipjJ) - 豆瓣评分 8.1
+*   [《见识》](https://www.coderxing.com/r.php?r=https://u.jd.com/cP4xDs) - 豆瓣评分 8.1
+*   [《极限创新 35岁之前改变世界的全球科技精英》](https://www.coderxing.com/r.php?r=https://u.jd.com/oGJFTx) - 豆瓣评分 7.3
+*   [《大学的终结：泛在大学与高等教育革命》](https://www.coderxing.com/r.php?r=https://u.jd.com/FBINiB) - 豆瓣评分 7.2
+*   [《未来版图 全球聪明公司的科技创新趋势和商业化路径》](https://www.coderxing.com/r.php?r=https://u.jd.com/ZfHw4B) - 豆瓣评分 7.1
+*   [《你好哇，程序员——漫话程序员面试求职、升职加薪、创业与生活》](https://www.coderxing.com/r.php?r=https://u.jd.com/cNCbEF) - 豆瓣评分 6.5
+*   [《图灵和ACM图灵奖（1966-2015 第五版） 纪念计算机诞生70周年》](https://www.coderxing.com/r.php?r=https://u.jd.com/S1ZQhz)
+*   [《文明之光（全彩印刷套装1-4册）入选2014中国好书/第六届中华优秀出版物获奖图书》](https://www.coderxing.com/r.php?r=https://u.jd.com/M3PkIU)
+*   [《大师访谈录：成就非凡的软件人生》](https://www.coderxing.com/r.php?r=https://u.jd.com/JHxmei)
+
+## Java之外
+
+*   [《计算机科学丛书：计算机程序的构造和解释（原书第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/RCgC9H) - 豆瓣评分 9.5
+*   [《计算机科学丛书：编译原理（第2版） \[Compilers:Principle,Techniques and Tools\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/URRIW5) - 豆瓣评分 9.1
+*   [《一个APP的诞生——从零开始设计你的手机应用》](https://www.coderxing.com/r.php?r=https://u.jd.com/fbemS8) - 豆瓣评分 6.3
+*   [《大型网站性能优化实战：从前端、网络、CDN到后端、大促的全链路性能优化详解》](https://www.coderxing.com/r.php?r=https://u.jd.com/F4SUYQ)
+
+### 网络知识
+
+*   [《图解HTTP》](https://www.coderxing.com/r.php?r=https://u.jd.com/q3lNRK) - 豆瓣评分 8.1
+*   [《图解TCP/IP 第5版》](https://www.coderxing.com/r.php?r=https://u.jd.com/Ip1U7X) - 豆瓣评分 7.8
+
+### 安全知识
+
+*   [《白帽子讲Web安全（纪念版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/6oCOp8) - 豆瓣评分 7.4
+*   [《Web安全攻防：渗透测试实战指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/gecmeS)
+
+### 工具
+
+*   [《Maven实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/Fv9ksZ) - 豆瓣评分 8.2
+*   [《大象：Thinking in UML（第2版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/JvxLfz) - 豆瓣评分 8.2
+*   [《Git学习指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/x06AA6) - 豆瓣评分 6.7
+*   [《UML基础、案例与应用（第3版 修订版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/W50GoO)
+
+### 运维\&DevOps
+
+*   [《编码：隐匿在计算机软硬件背后的语言 \[Code:The Hidden Language of Computer Hardware and Software\]》](https://www.coderxing.com/r.php?r=https://u.jd.com/3ejMcd) - 豆瓣评分 9.3
+*   [《DevOps实践指南》](https://www.coderxing.com/r.php?r=https://u.jd.com/pVBguN) - 豆瓣评分 9
+*   [《性能之巅：洞悉系统、企业与云计算》](https://www.coderxing.com/r.php?r=https://u.jd.com/RXZBkB) - 豆瓣评分 8.7
+*   [《鸟哥的Linux私房菜 基础学习篇 第四版》](https://www.coderxing.com/r.php?r=https://u.jd.com/kzDG88) - 豆瓣评分 8.2
+*   [《DevOps开发运维训练营》](https://www.coderxing.com/r.php?r=https://u.jd.com/Slnb59)
+
 # 国内低代码平台
 
 ## 全栈平台
@@ -494,9 +907,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [Vue](#vue)
 *   [Ruby](#ruby)
@@ -504,7 +918,6 @@
 *   [C](#c)
 *   [C++](#c-1)
 *   [Dart](#dart)
-*   [miscellaneous](#miscellaneous)
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
 *   [Shell](#shell)
@@ -520,297 +933,9 @@
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
-## TypeScript
-
-*   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
-
-*   [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
-
-*   [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
-
-*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
-
-*   [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
-
-*   [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
-
-*   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
-
-*   [longyanjiang/Nine-chat-backend](https://github.com/longyanjiang/Nine-chat-backend) - 采用socketio打造的多人实时通讯多房间在线音乐聊天室
-
-*   [webVueBlog/bing-wallpaper](https://github.com/webVueBlog/bing-wallpaper) - 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
-
-*   [webVueBlog/umi-poster](https://github.com/webVueBlog/umi-poster) - 海报，封面生成器
-
-*   [webVueBlog/todolist-react](https://github.com/webVueBlog/todolist-react) - TypeScript版本-使用 React 和 Redux 构建的 TodoMVC (props\&Event\&Context\&Mobx\&Redux)
-
-*   [webVueBlog/vue-ts-netease-cloud-music](https://github.com/webVueBlog/vue-ts-netease-cloud-music) - 网易云音乐客户端播放器（PC） Online Music Player
-
-*   [liuweiGL/vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
-
-*   [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
-
-*   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
-
-*   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
-
-*   [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-
-*   [weyoss/redis-smq](https://github.com/weyoss/redis-smq) - A simple high-performance Redis message queue for Node.js.
-
-*   [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
-
-*   [bevry/getmac](https://github.com/bevry/getmac) - Get the mac address of the current machine you are on via Node.js
-
-*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-
-*   [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
-
-*   [AttoJS/vue-request](https://github.com/AttoJS/vue-request) - ⚡️ Vue composition API for data fetching, supports SWR, polling, error retry, cache request, pagination, etc. ⚡️ 一个能轻松帮你管理请求状态（支持SWR，轮询，错误重试，缓存，分页等）的 Vue 请求库
-
-*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-
-*   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
-
-*   [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
-
-*   [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
-
-*   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
-
-*   [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
-
-*   [youngjuning/vant-react-native](https://github.com/youngjuning/vant-react-native) - Lightweight React Native UI Components inspired on Vant
-
-*   [curly210102/word-counter](https://github.com/curly210102/word-counter) -
-
-*   [yenshih/style-resources-loader](https://github.com/yenshih/style-resources-loader) - CSS processor resources loader for webpack
-
-*   [Lemoncode/react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples) - The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
-
-*   [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
-
-*   [s-panferov/awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) - Awesome TypeScript loader for webpack
-
-*   [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
-
-*   [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-
-*   [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，同时也可以作为一个开箱即用的富文本编辑器，拥有非常好的扩展性和可定制性，是构建复杂富文本的不二之选！
-
-*   [javascript-obfuscator/webpack-obfuscator](https://github.com/javascript-obfuscator/webpack-obfuscator) - javascript-obfuscator plugin for Webpack
-
-*   [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
-
-*   [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
-
-*   [react-component/table](https://github.com/react-component/table) - React Table
-
-*   [Nodlik/StPageFlip](https://github.com/Nodlik/StPageFlip) - Simple library for creating realistic page turning effects
-
-*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
-*   [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
-
-*   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-
-*   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-
-*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
-
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-
-*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
-
-*   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
-
-*   [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
-
-*   [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
-
-*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
-
-*   [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
-
-*   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
-
-*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-
-*   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-
-*   [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
-
-*   [vuese/vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
-
-*   [styleguidist/react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - A simple parser for react properties defined in typescript instead of propTypes.
-
-*   [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
-
-*   [alibaba/GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
-
-*   [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
-
-*   [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
-
-*   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
-
-*   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-
-*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-
-*   [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-
-*   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
-
-*   [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
-
-*   [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
-
-*   [Cody2333/koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
-
-*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-
-*   [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
-
-*   [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
-
-*   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-
-*   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
-
-*   [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
-
-*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-
-*   [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
-
-*   [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
-
-*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-
-*   [module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
-
-*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
-
-*   [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue) - 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
-
-*   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
-
-*   [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
-
-*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
-
-*   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
-
-*   [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
-
-*   [SortableJS/react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React bindings for SortableJS
-
-*   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
-
-*   [MMF-FE/svgicon](https://github.com/MMF-FE/svgicon) - SVG icon components and tool set
-
-*   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-
-*   [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
-
-*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
-
-*   [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
-
-*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
-
-*   [surmon-china/videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
-
-*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
-
-*   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
-
-*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-
-*   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
-
-*   [microsoft/TypeScriptSamples](https://github.com/microsoft/TypeScriptSamples) - Community Driven Samples for TypeScript
-
-*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-
-*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-
-*   [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
-
-*   [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-
-*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
-
-*   [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
-
-*   [rayhomie/react-qq-music](https://github.com/rayhomie/react-qq-music) - 🎵 基于 React 的QQ音乐 mac 客户端播放器（PC） Online Music Player（qqmusic）
-
-*   [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
-
-*   [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-
-*   [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
-
-*   [michaelolof/vuex-class-component](https://github.com/michaelolof/vuex-class-component) - A Type Safe Vuex Module or Store Using ES6 Classes and ES7 Decorators written in TypeScript.
-
-*   [ktsn/vuex-class](https://github.com/ktsn/vuex-class) - Binding helpers for Vuex and vue-class-component
-
-*   [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
-
-*   [kaorun343/vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue.js and Property Decorator
-
-*   [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
-
-*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
-
-*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
-
-*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
-
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-*   [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
-
-*   [bytedance/bytemd](https://github.com/bytedance/bytemd) - Hackable Markdown Editor and Viewer
-
-## Java
-
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-
-*   [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
-
-*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-
-*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-*   [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-
-*   [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
-
-*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
-
-*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-
-*   [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
-
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
-
-*   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - ⭐️「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
-
-*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
-
 ## JavaScript
+
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 
 *   [react-grid-layout/react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 
@@ -1486,6 +1611,428 @@
 
 *   [maomao1996/react-music](https://github.com/maomao1996/react-music) - 基于React的在线音乐播放器（移动端高仿安卓网易云音乐）（重构是不可能的，这辈子都不会用 hooks 重构）
 
+## miscellaneous
+
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+
+*   [webVueBlog/awesome-stars-webVueBlog](https://github.com/webVueBlog/awesome-stars-webVueBlog) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [webVueBlog/webVueBlog](https://github.com/webVueBlog/webVueBlog) - 🌱 面向 🤔 JavaScript爱好人员提供：👋 原创内容、JavaScript、HTML5、Node.js、Vue.js、React等一系列教程和经验分享 👍。
+
+*   [webVueBlog/JavaScript-standard-library](https://github.com/webVueBlog/JavaScript-standard-library) - 前端进阶必看的JavaScript 标准库 JavaScript-standard-library
+
+*   [webVueBlog/webpack-studying](https://github.com/webVueBlog/webpack-studying) - webpack - 为前端圈提供一点贡献
+
+*   [webVueBlog/Quick-Hand-Algorithm](https://github.com/webVueBlog/Quick-Hand-Algorithm) - 快手-算法
+
+*   [webVueBlog/Bytedance-campus-59-Leetcode](https://github.com/webVueBlog/Bytedance-campus-59-Leetcode) - 力扣 (LeetCode) 🐿️ 字节校园 59
+
+*   [webVueBlog/LeetCode-HOT-100](https://github.com/webVueBlog/LeetCode-HOT-100) - 力扣 (LeetCode) 🔥LeetCode HOT 100
+
+*   [webVueBlog/Tencent-50-Leetcode](https://github.com/webVueBlog/Tencent-50-Leetcode) - 力扣 (LeetCode) 🐧 腾讯精选练习 50 题
+
+*   [crazycodeboy/awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) - 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
+
+*   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
+
+*   [toutiaoio/awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师
+
+*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
+*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+
+*   [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+
+*   [ChickenDreamFactory/fe-chicken](https://github.com/ChickenDreamFactory/fe-chicken) - ✨✨✨ 集锦 前端JavaScript 手写题，编程题，Not just for interviews
+
+*   [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
+
+*   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
+
+*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
+
+*   [hello-java-maker/JavaInterview](https://github.com/hello-java-maker/JavaInterview) - 【Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
+
+*   [ChickenDreamFactory/fe-question](https://github.com/ChickenDreamFactory/fe-question) - fe-question，前端问答
+
+*   [ChickenDreamFactory/JavaScript-data-structures-and-algorithms](https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms) - 【数据结构与算法概念与实现】
+
+*   [ChickenDreamFactory/node-chicken](https://github.com/ChickenDreamFactory/node-chicken) - Node.js 源码剖析
+
+*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+
+*   [aliyunfe/weekly](https://github.com/aliyunfe/weekly) - 《阿里云前端技术周刊》
+
+*   [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue\_book: A guided handbook on how to use Babel and how to create plugins for Babel.
+
+*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+
+*   [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - 用JavaScript实现的算法和数据结构，附详细解释和刷题指南
+
+*   [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
+
+*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+
+*   [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
+
+*   [0voice/audio\_video\_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
+
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
+
+*   [addyosmani/es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5) - WIP - ES6 Equivalents In ES5
+
+*   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
+
+*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+
+*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+*   [amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
+
+*   [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
+
+*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+
+*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+
+*   [aliyun-node/Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) - Node.js 应用线上/线下故障、压测问题和性能调优指南手册（一期更新结束）
+
+*   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+
+*   [wallstreetcn/webpack-and-spa-guide](https://github.com/wallstreetcn/webpack-and-spa-guide) - Webpack 4 和单页应用入门
+
+*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
+
+*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
+
+*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+
+*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+*   [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
+
+*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
+
+*   [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法
+
+*   [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
+
+*   [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
+
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+
+*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+
+*   [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
+
+## TypeScript
+
+*   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
+
+*   [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
+
+*   [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
+
+*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+
+*   [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+
+*   [vuejs/pinia](https://github.com/vuejs/pinia) - 🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support
+
+*   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+
+*   [longyanjiang/Nine-chat-backend](https://github.com/longyanjiang/Nine-chat-backend) - 采用socketio打造的多人实时通讯多房间在线音乐聊天室
+
+*   [webVueBlog/bing-wallpaper](https://github.com/webVueBlog/bing-wallpaper) - 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
+
+*   [webVueBlog/umi-poster](https://github.com/webVueBlog/umi-poster) - 海报，封面生成器
+
+*   [webVueBlog/todolist-react](https://github.com/webVueBlog/todolist-react) - TypeScript版本-使用 React 和 Redux 构建的 TodoMVC (props\&Event\&Context\&Mobx\&Redux)
+
+*   [webVueBlog/vue-ts-netease-cloud-music](https://github.com/webVueBlog/vue-ts-netease-cloud-music) - 网易云音乐客户端播放器（PC） Online Music Player
+
+*   [liuweiGL/vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates for vite's https dev service.
+
+*   [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer) - 📈⚖️ Visuallize your bundle
+
+*   [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js &amp; npm run watch-less` but better.
+
+*   [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
+
+*   [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
+
+*   [weyoss/redis-smq](https://github.com/weyoss/redis-smq) - A simple high-performance Redis message queue for Node.js.
+
+*   [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+
+*   [bevry/getmac](https://github.com/bevry/getmac) - Get the mac address of the current machine you are on via Node.js
+
+*   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+
+*   [bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib) - A javascript Bitcoin library for node.js and browsers.
+
+*   [AttoJS/vue-request](https://github.com/AttoJS/vue-request) - ⚡️ Vue composition API for data fetching, supports SWR, polling, error retry, cache request, pagination, etc. ⚡️ 一个能轻松帮你管理请求状态（支持SWR，轮询，错误重试，缓存，分页等）的 Vue 请求库
+
+*   [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+
+*   [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
+
+*   [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
+
+*   [pladaria/reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)
+
+*   [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
+
+*   [buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode) - vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具
+
+*   [youngjuning/vant-react-native](https://github.com/youngjuning/vant-react-native) - Lightweight React Native UI Components inspired on Vant
+
+*   [curly210102/word-counter](https://github.com/curly210102/word-counter) -
+
+*   [yenshih/style-resources-loader](https://github.com/yenshih/style-resources-loader) - CSS processor resources loader for webpack
+
+*   [Lemoncode/react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples) - The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
+
+*   [vuejs/vue-loader](https://github.com/vuejs/vue-loader) - 📦 Webpack loader for Vue.js components
+
+*   [s-panferov/awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) - Awesome TypeScript loader for webpack
+
+*   [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack
+
+*   [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+
+*   [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，同时也可以作为一个开箱即用的富文本编辑器，拥有非常好的扩展性和可定制性，是构建复杂富文本的不二之选！
+
+*   [javascript-obfuscator/webpack-obfuscator](https://github.com/javascript-obfuscator/webpack-obfuscator) - javascript-obfuscator plugin for Webpack
+
+*   [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) - Frontend for HospitalRun
+
+*   [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
+
+*   [react-component/table](https://github.com/react-component/table) - React Table
+
+*   [Nodlik/StPageFlip](https://github.com/Nodlik/StPageFlip) - Simple library for creating realistic page turning effects
+
+*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
+*   [ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn) - Ant Design for React Native
+
+*   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
+
+*   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+
+*   [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
+
+*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+
+*   [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
+
+*   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+
+*   [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts) - A React Chart Library
+
+*   [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
+
+*   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+
+*   [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
+
+*   [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+
+*   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+
+*   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+
+*   [hustcc/timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
+
+*   [vuese/vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
+
+*   [styleguidist/react-docgen-typescript](https://github.com/styleguidist/react-docgen-typescript) - A simple parser for react properties defined in typescript instead of propTypes.
+
+*   [ant-design/pro-components](https://github.com/ant-design/pro-components) - 🏆 Use Ant Design like a Pro!
+
+*   [alibaba/GGEditor](https://github.com/alibaba/GGEditor) - A visual graph editor based on G6 and React
+
+*   [antvis/L7](https://github.com/antvis/L7) - 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine
+
+*   [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
+
+*   [antvis/G6](https://github.com/antvis/G6) - ♾ A Graph Visualization Framework in JavaScript
+
+*   [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
+
+*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+
+*   [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+
+*   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
+
+*   [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
+
+*   [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
+
+*   [Cody2333/koa-swagger-decorator](https://github.com/Cody2333/koa-swagger-decorator) - using decorator to automatically generate swagger doc for koa-router
+
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+
+*   [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
+
+*   [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) - A Vue.js UI components lib for TDesign.
+
+*   [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+
+*   [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
+
+*   [umijs/dumi](https://github.com/umijs/dumi) - 📖 Static Site Generator for component library development
+
+*   [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+
+*   [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+
+*   [formatjs/formatjs](https://github.com/formatjs/formatjs) - The monorepo home to all of the FormatJS related libraries, most notably react-intl.
+
+*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+
+*   [module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
+
+*   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
+
+*   [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue) - 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
+
+*   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+
+*   [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
+
+*   [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
+
+*   [dolanmiu/docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.
+
+*   [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
+
+*   [SortableJS/react-sortablejs](https://github.com/SortableJS/react-sortablejs) - React bindings for SortableJS
+
+*   [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+
+*   [MMF-FE/svgicon](https://github.com/MMF-FE/svgicon) - SVG icon components and tool set
+
+*   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
+
+*   [logaretm/vee-validate](https://github.com/logaretm/vee-validate) - ✅  Painless Vue forms
+
+*   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
+
+*   [ant-design/ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
+
+*   [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
+
+*   [surmon-china/videojs-player](https://github.com/surmon-china/videojs-player) - @videojs player component for @vuejs(3) and React.
+
+*   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+
+*   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+
+*   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+
+*   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
+
+*   [microsoft/TypeScriptSamples](https://github.com/microsoft/TypeScriptSamples) - Community Driven Samples for TypeScript
+
+*   [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+
+*   [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
+
+*   [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+
+*   [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+
+*   [championswimmer/vuex-module-decorators](https://github.com/championswimmer/vuex-module-decorators) - TypeScript/ES7 Decorators to create Vuex modules declaratively
+
+*   [rayhomie/react-qq-music](https://github.com/rayhomie/react-qq-music) - 🎵 基于 React 的QQ音乐 mac 客户端播放器（PC） Online Music Player（qqmusic）
+
+*   [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
+
+*   [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+
+*   [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
+
+*   [michaelolof/vuex-class-component](https://github.com/michaelolof/vuex-class-component) - A Type Safe Vuex Module or Store Using ES6 Classes and ES7 Decorators written in TypeScript.
+
+*   [ktsn/vuex-class](https://github.com/ktsn/vuex-class) - Binding helpers for Vuex and vue-class-component
+
+*   [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
+
+*   [kaorun343/vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue.js and Property Decorator
+
+*   [redhat-developer/vscode-yaml](https://github.com/redhat-developer/vscode-yaml) - YAML support for VS Code with built-in kubernetes syntax support
+
+*   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+
+*   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+
+*   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
+
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+*   [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
+
+## Java
+
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+
+*   [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+
+*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+
+*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+
+*   [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
+
+*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+
+*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+*   [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
+*   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
+
+*   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - ⭐️「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
+
 ## Rust
 
 *   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
@@ -1729,140 +2276,6 @@
 *   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 
 *   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
-## miscellaneous
-
-*   [CarGuo/gsy\_flutter\_book](https://github.com/CarGuo/gsy_flutter_book) - Flutter 完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
-
-*   [webVueBlog/awesome-stars-webVueBlog](https://github.com/webVueBlog/awesome-stars-webVueBlog) - 🤩 我的star列表，每天凌晨自动更新
-
-*   [webVueBlog/webVueBlog](https://github.com/webVueBlog/webVueBlog) - 🌱 面向 🤔 JavaScript爱好人员提供：👋 原创内容、JavaScript、HTML5、Node.js、Vue.js、React等一系列教程和经验分享 👍。
-
-*   [webVueBlog/JavaScript-standard-library](https://github.com/webVueBlog/JavaScript-standard-library) - 前端进阶必看的JavaScript 标准库 JavaScript-standard-library
-
-*   [webVueBlog/webpack-studying](https://github.com/webVueBlog/webpack-studying) - webpack - 为前端圈提供一点贡献
-
-*   [webVueBlog/Quick-Hand-Algorithm](https://github.com/webVueBlog/Quick-Hand-Algorithm) - 快手-算法
-
-*   [webVueBlog/Bytedance-campus-59-Leetcode](https://github.com/webVueBlog/Bytedance-campus-59-Leetcode) - 力扣 (LeetCode) 🐿️ 字节校园 59
-
-*   [webVueBlog/LeetCode-HOT-100](https://github.com/webVueBlog/LeetCode-HOT-100) - 力扣 (LeetCode) 🔥LeetCode HOT 100
-
-*   [webVueBlog/Tencent-50-Leetcode](https://github.com/webVueBlog/Tencent-50-Leetcode) - 力扣 (LeetCode) 🐧 腾讯精选练习 50 题
-
-*   [crazycodeboy/awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn) - 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表
-
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
-*   [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
-
-*   [opendigg/awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
-
-*   [toutiaoio/awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师
-
-*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-
-*   [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-
-*   [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-
-*   [ChickenDreamFactory/fe-chicken](https://github.com/ChickenDreamFactory/fe-chicken) - ✨✨✨ 集锦 前端JavaScript 手写题，编程题，Not just for interviews
-
-*   [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
-
-*   [nuxt/framework](https://github.com/nuxt/framework) - Old repo of Nuxt 3 framework, now on nuxt/nuxt
-
-*   [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-
-*   [hello-java-maker/JavaInterview](https://github.com/hello-java-maker/JavaInterview) - 【Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
-
-*   [ChickenDreamFactory/fe-question](https://github.com/ChickenDreamFactory/fe-question) - fe-question，前端问答
-
-*   [ChickenDreamFactory/JavaScript-data-structures-and-algorithms](https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms) - 【数据结构与算法概念与实现】
-
-*   [ChickenDreamFactory/node-chicken](https://github.com/ChickenDreamFactory/node-chicken) - Node.js 源码剖析
-
-*   [0voice/from\_coder\_to\_expert](https://github.com/0voice/from_coder_to_expert) - 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-
-*   [aliyunfe/weekly](https://github.com/aliyunfe/weekly) - 《阿里云前端技术周刊》
-
-*   [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue\_book: A guided handbook on how to use Babel and how to create plugins for Babel.
-
-*   [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
-
-*   [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js) - 用JavaScript实现的算法和数据结构，附详细解释和刷题指南
-
-*   [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
-
-*   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
-
-*   [SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode) - 公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码
-
-*   [0voice/audio\_video\_streaming](https://github.com/0voice/audio_video_streaming) - 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。
-
-*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、免费翻墙、免费科学上网、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，免费自由上网、fanqiang、翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网
-
-*   [addyosmani/es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5) - WIP - ES6 Equivalents In ES5
-
-*   [nestjs/awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS 😎
-
-*   [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-
-*   [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
-*   [amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
-
-*   [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [CavsZhouyou/Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) - :ant:前端面试复习笔记
-
-*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-
-*   [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-
-*   [aliyun-node/Node.js-Troubleshooting-Guide](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide) - Node.js 应用线上/线下故障、压测问题和性能调优指南手册（一期更新结束）
-
-*   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-
-*   [wallstreetcn/webpack-and-spa-guide](https://github.com/wallstreetcn/webpack-and-spa-guide) - Webpack 4 和单页应用入门
-
-*   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
-
-*   [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
-
-*   [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
-
-*   [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-*   [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
-
-*   [jaywcjlove/mysql-tutorial](https://github.com/jaywcjlove/mysql-tutorial) - MySQL入门教程（MySQL tutorial book）
-
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
-
-*   [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法
-
-*   [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
-
-*   [css-modules/css-modules](https://github.com/css-modules/css-modules) - Documentation about css-modules
-
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-
-*   [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-
-*   [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 
 ## Objective-C
 
