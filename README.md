@@ -3220,12 +3220,13 @@ TODO
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Rust](#rust)
-*   [Vue](#vue)
 *   [Ruby](#ruby)
 *   [HTML](#html)
 *   [C](#c)
@@ -3236,17 +3237,41 @@ TODO
 *   [Shell](#shell)
 *   [PHP](#php)
 *   [Go](#go)
-*   [Python](#python)
 *   [OCaml](#ocaml)
 *   [Markdown](#markdown)
 *   [Bikeshed](#bikeshed)
 *   [CoffeeScript](#coffeescript)
 *   [Astro](#astro)
 *   [SCSS](#scss)
-*   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## Python
+
+*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+
+*   [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot) - 闲聊QQ机器人，也就是人工智障
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+
+*   [A-kirami/nonebot-plugin-aidraw](https://github.com/A-kirami/nonebot-plugin-aidraw) - nonebot2 AI 绘图
+
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+*   [euphrat1ca/fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect) - 网络上安全资源的搜集
+
+*   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+
+*   [plctlab/v8-internals](https://github.com/plctlab/v8-internals) - 面向编译器开发人员的V8内部实现文档
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
 ## JavaScript
+
+*   [skys215/regexr-cn](https://github.com/skys215/regexr-cn) - RegExr 是一款用于测试和学习正则表达式的，基于 HTML/JS 的工具。
 
 *   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 
@@ -3922,7 +3947,73 @@ TODO
 
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
-*   [maomao1996/react-music](https://github.com/maomao1996/react-music) - 基于React的在线音乐播放器（移动端高仿安卓网易云音乐）（重构是不可能的，这辈子都不会用 hooks 重构）
+## Vue
+
+*   [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
+
+*   [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A set of background integration scheme based on vue3, element-plus, typescript4 and vite4
+
+*   [webVueBlog/vue3-vite-pinia-template](https://github.com/webVueBlog/vue3-vite-pinia-template) - 企业级前端开发与构建框架 Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + ant-design-vueTemplate.
+
+*   [webVueBlog/uui](https://github.com/webVueBlog/uui) - 🖖 【uui组件库】A vue-cli 3.0 + vue + typeScript + babel + eslint + unit-mocha + scss + chai + karma。
+
+*   [webVueBlog/vue3-vite2-ts4](https://github.com/webVueBlog/vue3-vite2-ts4) - 🎲一套规范的vue3+vite2+ts4前端工程化项目环境 https://webvueblog.github.io/vue3-vite2-ts4/
+
+*   [yleencc/vue-barrage-videoplayer](https://github.com/yleencc/vue-barrage-videoplayer) - vue-弹幕视频播放器，一个基于Vue的弹幕视频播放器组件
+
+*   [buqiyuan/vite-vue3-admin](https://github.com/buqiyuan/vite-vue3-admin) - 基于vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
+
+*   [lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页
+
+*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - ⭐️「企业级低代码平台」采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
+
+*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
+
+*   [joyceworks/flowchart-vue](https://github.com/joyceworks/flowchart-vue) - Flowchart & designer component for Vue.js.
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [vuese/vuese-explorer](https://github.com/vuese/vuese-explorer) - 🏄An online experience playground for vuese
+
+*   [varletjs/varlet-vue2](https://github.com/varletjs/varlet-vue2) - Material design mobile component library for Vue2 / 基于 Vue2 的 Material design 风格移动端组件库
+
+*   [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3
+
+*   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
+
+*   [learn-docs/vue-docs](https://github.com/learn-docs/vue-docs) - 🔥 vue-docs https://learn-docs.github.io/vue-docs/
+
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+
+*   [ppchart/ppchart](https://github.com/ppchart/ppchart) - http://ppchart.com
+
+*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
+
+*   [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
+
+*   [xlsdg/vue-countup-v2](https://github.com/xlsdg/vue-countup-v2) - Vue.js component wrap for countUp.js
+
+*   [fu4303/vue-splitpanes](https://github.com/fu4303/vue-splitpanes) -
+
+*   [Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
+
+*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
+
+*   [notadd/vue-screen-capture](https://github.com/notadd/vue-screen-capture) - 基于 html2canvas 的vue截图组件
+
+*   [sdras/vue-sample-svg-icons](https://github.com/sdras/vue-sample-svg-icons) - An opinionated example of how to use SVG icons in a Vue.js application
+
+*   [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
+
+*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
+
+*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+
+*   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+
+*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
 
 ## miscellaneous
 
@@ -4316,8 +4407,6 @@ TODO
 
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
-*   [loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) - :books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
-
 ## Java
 
 *   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
@@ -4355,72 +4444,6 @@ TODO
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 *   [i5ting/learn-rust-for-fe](https://github.com/i5ting/learn-rust-for-fe) - Rust是未来前端基础设施
-
-## Vue
-
-*   [kailong321200875/vue-element-plus-admin](https://github.com/kailong321200875/vue-element-plus-admin) - A set of background integration scheme based on vue3, element-plus, typescript4 and vite4
-
-*   [webVueBlog/vue3-vite-pinia-template](https://github.com/webVueBlog/vue3-vite-pinia-template) - 企业级前端开发与构建框架 Vite + Vue3 + TypeScript + Vue-Router4 + Pinia + Tailwind CSS + ant-design-vueTemplate.
-
-*   [webVueBlog/uui](https://github.com/webVueBlog/uui) - 🖖 【uui组件库】A vue-cli 3.0 + vue + typeScript + babel + eslint + unit-mocha + scss + chai + karma。
-
-*   [webVueBlog/vue3-vite2-ts4](https://github.com/webVueBlog/vue3-vite2-ts4) - 🎲一套规范的vue3+vite2+ts4前端工程化项目环境 https://webvueblog.github.io/vue3-vite2-ts4/
-
-*   [yleencc/vue-barrage-videoplayer](https://github.com/yleencc/vue-barrage-videoplayer) - vue-弹幕视频播放器，一个基于Vue的弹幕视频播放器组件
-
-*   [buqiyuan/vite-vue3-admin](https://github.com/buqiyuan/vite-vue3-admin) - 基于vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
-
-*   [lybenson/bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页
-
-*   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - ⭐️「企业级低代码平台」采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
-
-*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
-
-*   [joyceworks/flowchart-vue](https://github.com/joyceworks/flowchart-vue) - Flowchart & designer component for Vue.js.
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [vuese/vuese-explorer](https://github.com/vuese/vuese-explorer) - 🏄An online experience playground for vuese
-
-*   [varletjs/varlet-vue2](https://github.com/varletjs/varlet-vue2) - Material design mobile component library for Vue2 / 基于 Vue2 的 Material design 风格移动端组件库
-
-*   [varletjs/varlet](https://github.com/varletjs/varlet) - Material design mobile component library for Vue3
-
-*   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
-
-*   [learn-docs/vue-docs](https://github.com/learn-docs/vue-docs) - 🔥 vue-docs https://learn-docs.github.io/vue-docs/
-
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
-
-*   [ppchart/ppchart](https://github.com/ppchart/ppchart) - http://ppchart.com
-
-*   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
-
-*   [xiaokaike/vue-color](https://github.com/xiaokaike/vue-color) - :art: Vue Color Pickers for Sketch, Photoshop, Chrome & more   http://vue-color.surge.sh
-
-*   [xlsdg/vue-countup-v2](https://github.com/xlsdg/vue-countup-v2) - Vue.js component wrap for countUp.js
-
-*   [fu4303/vue-splitpanes](https://github.com/fu4303/vue-splitpanes) -
-
-*   [Armour/vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) - 🖖 A vue-cli 3.0 + typescript minimal admin template
-
-*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
-
-*   [notadd/vue-screen-capture](https://github.com/notadd/vue-screen-capture) - 基于 html2canvas 的vue截图组件
-
-*   [sdras/vue-sample-svg-icons](https://github.com/sdras/vue-sample-svg-icons) - An opinionated example of how to use SVG icons in a Vue.js application
-
-*   [ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp) - Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git
-
-*   [view-design/ViewUI](https://github.com/view-design/ViewUI) - A high quality UI Toolkit built on Vue.js 2.0
-
-*   [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-
-*   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-
-*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
 
 ## Ruby
 
@@ -4642,28 +4665,6 @@ TODO
 
 *   [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 
-## Python
-
-*   [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot) - 闲聊QQ机器人，也就是人工智障
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
-*   [A-kirami/nonebot-plugin-aidraw](https://github.com/A-kirami/nonebot-plugin-aidraw) - nonebot2 AI 绘图
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-
-*   [euphrat1ca/fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect) - 网络上安全资源的搜集
-
-*   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-
-*   [plctlab/v8-internals](https://github.com/plctlab/v8-internals) - 面向编译器开发人员的V8内部实现文档
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
 ## OCaml
 
 *   [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
@@ -4689,10 +4690,6 @@ TODO
 *   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-
-## Stylus
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 ## Thanks
 
