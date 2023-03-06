@@ -3220,12 +3220,12 @@ TODO
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
-*   [Java](#java)
 *   [Rust](#rust)
 *   [Ruby](#ruby)
 *   [HTML](#html)
@@ -3244,6 +3244,36 @@ TODO
 *   [Astro](#astro)
 *   [SCSS](#scss)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) - 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，外挂字幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。
+
+*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+
+*   [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+
+*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
+
+*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+
+*   [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+
+*   [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
+
+*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+
+*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+
+*   [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
+
+*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
+
+*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+
+*   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
+
+*   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - ⭐️「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 
 ## Python
 
@@ -4013,8 +4043,6 @@ TODO
 
 *   [chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 
-*   [maomao1996/Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵 基于 Vue 的在线音乐播放器 Online music player
-
 ## miscellaneous
 
 *   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
@@ -4406,34 +4434,6 @@ TODO
 *   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
 
 *   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-
-## Java
-
-*   [elunez/eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-
-*   [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
-
-*   [newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall) - 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4) 、秒杀版本、Go语言版本、微服务版本(Spring Cloud Alibaba+Nacos+Sentinel+Seata+Spring Cloud Gateway+OpenFeign+ELK)。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
-
-*   [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-
-*   [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-
-*   [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
-
-*   [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
-
-*   [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-
-*   [justauth/JustAuth](https://github.com/justauth/JustAuth) - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、推特、飞书、京东、阿里云、喜马拉雅、Amazon、Slack和 Line 等第三方平台的授权登录。 Login, so easy!
-
-*   [dromara/Sa-Token](https://github.com/dromara/Sa-Token) - 这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...
-
-*   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-
-*   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
-
-*   [jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport) - ⭐️「低代码可视化报表」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 
 ## Rust
 
