@@ -3220,8 +3220,8 @@ TODO
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [Java](#java)
+*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
@@ -3245,33 +3245,9 @@ TODO
 *   [SCSS](#scss)
 *   [Thanks](#thanks)
 
-## Python
-
-*   [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
-
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
-
-*   [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot) - 闲聊QQ机器人，也就是人工智障
-
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
-*   [A-kirami/nonebot-plugin-aidraw](https://github.com/A-kirami/nonebot-plugin-aidraw) - nonebot2 AI 绘图
-
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-
-*   [euphrat1ca/fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect) - 网络上安全资源的搜集
-
-*   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-
-*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
-
-*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-
-*   [plctlab/v8-internals](https://github.com/plctlab/v8-internals) - 面向编译器开发人员的V8内部实现文档
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
 ## Java
+
+*   [RAOE/show-videos](https://github.com/RAOE/show-videos) - 🍭短视频社交软件 ，微信小程序，后台管理系统，专科毕业设计，仿抖音，springcloud+springboot+springmvc+mybatis+docker+bootstrap+h plus+微信小程序
 
 *   [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
 
@@ -3300,6 +3276,32 @@ TODO
 *   [lenve/vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 
 *   [ifnoelse/pdf-bookmark](https://github.com/ifnoelse/pdf-bookmark) - pdf bookmark generator 目录 书签 大纲
+
+## Python
+
+*   [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
+
+*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+
+*   [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot) - 闲聊QQ机器人，也就是人工智障
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+
+*   [A-kirami/nonebot-plugin-aidraw](https://github.com/A-kirami/nonebot-plugin-aidraw) - nonebot2 AI 绘图
+
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+
+*   [euphrat1ca/fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect) - 网络上安全资源的搜集
+
+*   [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+
+*   [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+
+*   [plctlab/v8-internals](https://github.com/plctlab/v8-internals) - 面向编译器开发人员的V8内部实现文档
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## JavaScript
 
@@ -3974,8 +3976,6 @@ TODO
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
 *   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
-
-*   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 
 ## Vue
 
