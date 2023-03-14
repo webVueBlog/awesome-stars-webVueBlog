@@ -3927,8 +3927,6 @@ TODO
 
 *   [rigor789/vue-scrollto](https://github.com/rigor789/vue-scrollto) - Adds a directive that listens for click events and scrolls to elements.
 
-*   [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
-
 *   [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 
 *   [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - 🏆 Swiper component for @vuejs
@@ -3976,6 +3974,8 @@ TODO
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
 *   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
+
+*   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 
 ## Vue
 
