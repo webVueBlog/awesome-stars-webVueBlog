@@ -3247,6 +3247,8 @@ TODO
 
 ## JavaScript
 
+*   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
+
 *   [webVueBlog/nice-my-friend](https://github.com/webVueBlog/nice-my-friend) - 😳轻松查看和过滤所有关注和关注。通过 GitHub Action 自动更新。
 
 *   [webVueBlog/fe](https://github.com/webVueBlog/fe) - 🚀 让每个前端人都能够获得一个 offer
@@ -3916,8 +3918,6 @@ TODO
 *   [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
 
 *   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
-
-*   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 ## miscellaneous
 
