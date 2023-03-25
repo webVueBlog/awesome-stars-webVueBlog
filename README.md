@@ -3251,7 +3251,7 @@ TODO
 
 *   [webVueBlog/nice-my-friend](https://github.com/webVueBlog/nice-my-friend) - 😳轻松查看和过滤所有关注和关注。通过 GitHub Action 自动更新。
 
-*   [webVueBlog/fe](https://github.com/webVueBlog/fe) - 🚀 让每个前端人都能够获得一个 offer
+*   [webVueBlog/WebGuideInterview](https://github.com/webVueBlog/WebGuideInterview) - 「WebGuideInterview学习」每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上纯手工发布（死磕自己，愉悦大家）准备 前端 面试，首选 WebGuideInterview！面试题大收集，面试集锦 ❤ 💝 💘
 
 *   [webVueBlog/koa2-login-registration](https://github.com/webVueBlog/koa2-login-registration) - koa2-login-registration Koa2实现基本的登录注册
 
