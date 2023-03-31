@@ -3335,7 +3335,7 @@ TODO
 
 *   [Nodlik/StPageFlip](https://github.com/Nodlik/StPageFlip) - Simple library for creating realistic page turning effects
 
-*   [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个干净清爽的开发平台，像写博客一样写代码！三分钟上线 chatGPT 应用！
+*   [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 
 *   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
@@ -4281,7 +4281,7 @@ TODO
 
 *   [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 
-*   [wallstreetcn/webpack-and-spa-guide](https://github.com/wallstreetcn/webpack-and-spa-guide) - Webpack 4 和单页应用入门
+*   [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
 
 *   [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 
@@ -4435,7 +4435,7 @@ TODO
 
 *   [jeecgboot/jeecgboot-vue3](https://github.com/jeecgboot/jeecgboot-vue3) - ⭐️「企业级低代码平台」采用 Vue3.0+TypeScript+Vite+Ant-Design-Vue等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是JeecgBoot低代码平台的vue3技术栈的全新UI版本，功能强于vue2版。
 
-*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站
+*   [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 
 *   [joyceworks/flowchart-vue](https://github.com/joyceworks/flowchart-vue) - Flowchart & designer component for Vue.js.
 
