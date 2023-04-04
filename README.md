@@ -4227,7 +4227,7 @@ TODO
 
 *   [ChickenDreamFactory/fe-question](https://github.com/ChickenDreamFactory/fe-question) - fe-question，前端问答
 
-*   [ChickenDreamFactory/JavaScript-data-structures-and-algorithms](https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms) - 【数据结构与算法概念与实现】
+*   [ChickenDreamFactory/JavaScript-data-structures-and-algorithms](https://github.com/ChickenDreamFactory/JavaScript-data-structures-and-algorithms) - 玩转数据结构与算法
 
 *   [ChickenDreamFactory/node-chicken](https://github.com/ChickenDreamFactory/node-chicken) - Node.js 源码剖析
 
