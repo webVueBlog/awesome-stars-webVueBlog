@@ -3220,6 +3220,7 @@ TODO
 
 ## Table of Contents
 
+*   [Groovy](#groovy)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
@@ -3244,6 +3245,10 @@ TODO
 *   [Astro](#astro)
 *   [SCSS](#scss)
 *   [Thanks](#thanks)
+
+## Groovy
+
+*   [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 
 ## Go
 
@@ -4184,8 +4189,6 @@ TODO
 *   [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
 *   [wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor) - wangEditor —— 开源 Web 富文本编辑器
-
-*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## miscellaneous
 
