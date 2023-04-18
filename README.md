@@ -3250,11 +3250,21 @@ TODO
 
 ## Dart
 
+*   [huangzhiwu1023/flutter\_Drawer](https://github.com/huangzhiwu1023/flutter_Drawer) -
+
+*   [vegasandroid/tesla-app](https://github.com/vegasandroid/tesla-app) - This mobile project created by flutter using Provider.
+
+*   [IZriouil/coffee\_app](https://github.com/IZriouil/coffee_app) -
+
+*   [swenes/chat\_message\_app\_FLUTTER](https://github.com/swenes/chat_message_app_FLUTTER) - this is a message/chat app with light and dark theme options
+
+*   [firgia/FD-Project-Management](https://github.com/firgia/FD-Project-Management) - Create responsive dashboard Project Management design using Flutter
+
+*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信、飞书、字节小程序以及 Web 应用开发。如果您觉得该项目还不错，可以考虑点个 Star 或者通过这个页面 https://mpflutter.com/zh/docs/support-us 支持我们哦。
+
 *   [mrezkys/marketky](https://github.com/mrezkys/marketky) - MarketKy is a Free Flutter E-Commerce App Starter Template that can help you develop an E-Commerce / Market application much faster.
 
 *   [ferdirhyme/marketplace](https://github.com/ferdirhyme/marketplace) -
-
-*   [swenes/chat\_message\_app\_FLUTTER](https://github.com/swenes/chat_message_app_FLUTTER) - this is a message/chat app with light and dark theme options
 
 *   [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
 
@@ -4104,8 +4114,6 @@ TODO
 
 *   [ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin) - Apache ECharts 的微信小程序版本
 
-*   [game-helper/weixin](https://github.com/game-helper/weixin) - 微信小游戏辅助合集（加减大师、包你懂我、大家来找茬腾讯版、头脑王者、好友画我、悦动音符、我最在行、星途WeGoing、猜画小歌、知乎答题王、腾讯中国象棋、跳一跳、题多多黄金版）
-
 ## Python
 
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -4714,8 +4722,6 @@ TODO
 
 *   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
-*   [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
-
 ## Groovy
 
 *   [gradle/gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
@@ -4784,8 +4790,6 @@ TODO
 
 *   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
-*   [JeffreySu/WeixinResource](https://github.com/JeffreySu/WeixinResource) - 微信开发资源汇总 | WeChat Development Resources Summary
-
 ## C
 
 *   [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
@@ -4832,8 +4836,6 @@ TODO
 
 *   [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 
-*   [SilurianYang/uni-app-tools](https://github.com/SilurianYang/uni-app-tools) - this is some uni-app toolset, more routing extensions
-
 ## Shell
 
 *   [webVueBlog/learn-web](https://github.com/webVueBlog/learn-web) - 🚴一份 🚀 涵盖大部分程序员所需要掌握的知识 🚄。
@@ -4861,8 +4863,6 @@ TODO
 *   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin is a background management system based on secondary development of Laravel and Element Plus. CatchAdmin still adopts the traditional front-end and back-end separation strategy, and the Laravel framework is only used as an Api output. Coupling between management system modules is minimized
 
 *   [dedemao/alipay](https://github.com/dedemao/alipay) - 一个PHP文件搞定支付宝支付系列，包括电脑网站支付，手机网站支付，现金红包、消费红包、扫码支付，JSAPI支付、单笔转账到支付宝账户、交易结算（分账、分润）、网页授权获取用户信息等
-
-*   [dedemao/weixinPay](https://github.com/dedemao/weixinPay) - 微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。
 
 ## OCaml
 
