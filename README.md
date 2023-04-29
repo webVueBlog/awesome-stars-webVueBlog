@@ -3253,6 +3253,8 @@ TODO
 
 ## Java
 
+*   [yangzongzhuan/RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
+
 *   [woodwhales/woodwhales-springboot-xss](https://github.com/woodwhales/woodwhales-springboot-xss) - SpringBoot Xss 防御 DEMO 示例
 
 *   [YunaiV/yudao-cloud](https://github.com/YunaiV/yudao-cloud) - ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
@@ -4173,8 +4175,6 @@ TODO
 
 *   [PanJiaChen/electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) -  vue electron admin template web: http://panjiachen.github.io/vue-admin-template
 
-*   [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
-
 ## Dart
 
 *   [martin-ngigi/chatgpt\_flutter\_ai\_chatbot](https://github.com/martin-ngigi/chatgpt_flutter_ai_chatbot) - Open AI Chat Bot using Chat-GPT in Flutter
@@ -4817,7 +4817,7 @@ TODO
 
 *   [yangkun19921001/AVSample](https://github.com/yangkun19921001/AVSample) - 0 基础音视频进阶路线 (MediaCodec、FFmpeg、OpenCV、OpenGL、短视频 SDK、音视频播放器、webrtc)
 
-*   [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳
+*   [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
 
 ## C++
 
