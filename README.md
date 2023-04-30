@@ -3253,6 +3253,8 @@ TODO
 
 ## Java
 
+*   [mybatis/mybatis-3](https://github.com/mybatis/mybatis-3) - MyBatis SQL mapper framework for Java
+
 *   [yangzongzhuan/RuoYi-Vue](https://github.com/yangzongzhuan/RuoYi-Vue) - :tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统，同时提供了 Vue3 的版本
 
 *   [woodwhales/woodwhales-springboot-xss](https://github.com/woodwhales/woodwhales-springboot-xss) - SpringBoot Xss 防御 DEMO 示例
@@ -4598,8 +4600,6 @@ TODO
 *   [vuejs/rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 
 *   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-
-*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 
 ## Vue
 
