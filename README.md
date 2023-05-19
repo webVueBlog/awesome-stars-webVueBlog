@@ -3246,6 +3246,7 @@ TODO
 *   [Markdown](#markdown)
 *   [Bikeshed](#bikeshed)
 *   [CoffeeScript](#coffeescript)
+*   [Astro](#astro)
 *   [SCSS](#scss)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
@@ -3488,8 +3489,6 @@ TODO
 
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 *   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
@@ -3544,7 +3543,7 @@ TODO
 
 *   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
-*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
+*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
 *   [chrisjpatty/crooks](https://github.com/chrisjpatty/crooks) - A collection of eclectic react hooks
 
@@ -4136,7 +4135,7 @@ TODO
 
 *   [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
-*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm\_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 *   [sonysuqin/WasmVideoPlayer](https://github.com/sonysuqin/WasmVideoPlayer) - Play file/stream with wasm & webgl & web audio api, using ffmpeg for multi codec support, especially for h265，support http, websocket, http-flv stream.
 
@@ -4895,6 +4894,10 @@ TODO
 ## CoffeeScript
 
 *   [quizlet/pinyin-converter](https://github.com/quizlet/pinyin-converter) - A simple Javascript plugin to convert pinyin with numbers to tone marks
+
+## Astro
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## SCSS
 
