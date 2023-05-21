@@ -3246,7 +3246,6 @@ TODO
 *   [Markdown](#markdown)
 *   [Bikeshed](#bikeshed)
 *   [CoffeeScript](#coffeescript)
-*   [Astro](#astro)
 *   [SCSS](#scss)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
@@ -3488,6 +3487,8 @@ TODO
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 
 *   [snabbdom/snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 *   [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
@@ -4894,10 +4895,6 @@ TODO
 ## CoffeeScript
 
 *   [quizlet/pinyin-converter](https://github.com/quizlet/pinyin-converter) - A simple Javascript plugin to convert pinyin with numbers to tone marks
-
-## Astro
-
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## SCSS
 
