@@ -3220,13 +3220,13 @@ TODO
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [Java](#java)
 *   [Vue](#vue)
 *   [Objective-C](#objective-c)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
-*   [Dart](#dart)
 *   [Go](#go)
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
@@ -3250,6 +3250,178 @@ TODO
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Dart
+
+*   [YeFei572/him-demo-flutter](https://github.com/YeFei572/him-demo-flutter) - socket + websocket + protobuf 即时通讯IM
+
+*   [ReberSincar/Flutter-WebRTC-Socketio-Video-Call](https://github.com/ReberSincar/Flutter-WebRTC-Socketio-Video-Call) -
+
+*   [nikkon404/quick-chat-flutter](https://github.com/nikkon404/quick-chat-flutter) - Flutter app for chatting (based on socket.io and Node.js)
+
+*   [AhmedAbouelkher/flutter\_socket\_io\_chat](https://github.com/AhmedAbouelkher/flutter_socket_io_chat) -
+
+*   [GeekAbdelouahed/Flutter-Socket-IO-Chat](https://github.com/GeekAbdelouahed/Flutter-Socket-IO-Chat) - Flutter chat applications using Socket IO
+
+*   [afgprogrammer/Flutter-Complete-e-commerce](https://github.com/afgprogrammer/Flutter-Complete-e-commerce) - Flutter e-commerce Application  design and Animation - day 16-17
+
+*   [Sky24n/flustars](https://github.com/Sky24n/flustars) - 🔥🔥🔥  Flutter common utils library. SpUtil, ScreenUtil,WidgetUtil.  也许是目前最好用的SharedPreferences工具类。WidgetUtil 获取图片尺寸宽高, View尺寸&在屏幕上的坐标。
+
+*   [firgia/FD-Marketplace](https://github.com/firgia/FD-Marketplace) - Create mobile marketplace design using Flutter
+
+*   [DelinQu/Flutter-SpringBoot-Login-Register-CRUD](https://github.com/DelinQu/Flutter-SpringBoot-Login-Register-CRUD) - 这是编程务实实验lab4，我使用SpringBoot + Flutter技术实现了一个具有登录，注册，邮箱验证，增删改查页面，社区功能，个人中心功能的APP。
+
+*   [wuyuanwuhui99/flutter-movie-app-ui](https://github.com/wuyuanwuhui99/flutter-movie-app-ui) - 基于flutter开发的混合电影app，后端采用springboot+mybatis+mysql开发，有react-native版本，参见个人主页springboot和react-native项目包括底部tab导航,，首页，电影，电视剧，我的，搜索页，分类页，电影详情页，播放页，登录，注册，浏览记录，播放记录，收藏，缓存，电影排行榜等页面和模块，功能齐全完善，所有数据来自python爬虫程序，抓取爱奇艺和第三方电影网站实时电影数据，每周更新影片两只三次，持续更新中...
+
+*   [flyerhq/flutter\_firebase\_chat\_core](https://github.com/flyerhq/flutter_firebase_chat_core) - Actively maintained, community-driven Firebase BaaS for chat applications with an optional chat UI.
+
+*   [huangruiLearn/flutter\_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) - Flutter仿微博客户端,  包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
+
+*   [rohan20/flutter-in-app-localisation](https://github.com/rohan20/flutter-in-app-localisation) - In app localisation demo in Flutter
+
+*   [rohan20/flutter-chat-app](https://github.com/rohan20/flutter-chat-app) - A chat app built on Flutter with firebase authentication and image sharing capability.
+
+*   [flyerhq/flutter\_chat\_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
+
+*   [martin-ngigi/chatgpt\_flutter\_ai\_chatbot](https://github.com/martin-ngigi/chatgpt_flutter_ai_chatbot) - Open AI Chat Bot using Chat-GPT in Flutter
+
+*   [huangzhiwu1023/flutter\_Drawer](https://github.com/huangzhiwu1023/flutter_Drawer) -
+
+*   [vegasandroid/tesla-app](https://github.com/vegasandroid/tesla-app) - This mobile project created by flutter using Provider.
+
+*   [IZriouil/coffee\_app](https://github.com/IZriouil/coffee_app) -
+
+*   [swenes/chat\_message\_app\_FLUTTER](https://github.com/swenes/chat_message_app_FLUTTER) - this is a message/chat app with light and dark theme options
+
+*   [firgia/FD-Project-Management](https://github.com/firgia/FD-Project-Management) - Create responsive dashboard Project Management design using Flutter
+
+*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信、飞书、字节小程序以及 Web 应用开发。如果您觉得该项目还不错，可以考虑点个 Star 或者通过这个页面 https://mpflutter.com/zh/docs/support-us 支持我们哦。
+
+*   [mrezkys/marketky](https://github.com/mrezkys/marketky) - MarketKy is a Free Flutter E-Commerce App Starter Template that can help you develop an E-Commerce / Market application much faster.
+
+*   [ferdirhyme/marketplace](https://github.com/ferdirhyme/marketplace) -
+
+*   [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
+
+*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
+
+*   [flutter/packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
+
+*   [marcojakob/dart-event-bus](https://github.com/marcojakob/dart-event-bus) - An Event Bus using Dart Streams for decoupling applications
+
+*   [xuexiangjys/flutter\_xupdate](https://github.com/xuexiangjys/flutter_xupdate) - A Flutter plugin for XUpdate(Android Version Update Library)
+
+*   [rrousselGit/provider](https://github.com/rrousselGit/provider) - InheritedWidgets, but simple
+
+*   [Baseflow/flutter\_cached\_network\_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
+
+*   [xuelongqy/flutter\_easy\_refresh](https://github.com/xuelongqy/flutter_easy_refresh) - A flutter widget that provides pull-down refresh and pull-up load.
+
+*   [xuexiangjys/flutter\_template](https://github.com/xuexiangjys/flutter_template) - The project of the empty template with Flutter has built the basic framework to realize the functions of internationalization, theme peeling, login and registration, etc.(Flutter空壳模板工程，已搭建基础框架，实现国际化、主题换肤、登录注册、自动路由注册等功能，可在此基础上简单修改实现自己的应用功能)
+
+*   [webVueBlog/egg-flutter-templates](https://github.com/webVueBlog/egg-flutter-templates) - A new Flutter project.
+
+*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
+
+*   [meetqy/flutter\_dating\_template](https://github.com/meetqy/flutter_dating_template) - flutter 版本的交友 app 模板，总计页面35个，测试数据基于 mockjs 创建（A dating app template for The Flutter version, with a total of 35 pages, was created based on MockJS.）
+
+*   [yukilzw/dy\_flutter](https://github.com/yukilzw/dy_flutter) - 斗鱼直播APP :rocket: 多元化Flutter开源项目。涵盖礼物特效、手势动画、弹幕池、抽奖、鱼吧等（另提供服务端Mock接口）
+
+*   [meetqy/flutter\_luckin\_coffee](https://github.com/meetqy/flutter_luckin_coffee) - flutter luckin coffee application（仿瑞幸咖啡）
+
+*   [kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
+
+*   [flutter-stripe/flutter\_stripe](https://github.com/flutter-stripe/flutter_stripe) - Flutter SDK for Stripe.
+
+*   [robertodevs/flutter\_ecommerce\_template](https://github.com/robertodevs/flutter_ecommerce_template) - This is an eCommerce minimalist template with a clean and beautiful design for Flutter.
+
+*   [jogboms/flutter\_spinkit](https://github.com/jogboms/flutter_spinkit) - ✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.
+
+*   [dnfield/flutter\_svg](https://github.com/dnfield/flutter_svg) - SVG parsing, rendering, and widget library for Flutter
+
+*   [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
+
+*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
+
+*   [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin) - Flutter Plugin for AppsFlyer SDK
+
+*   [letsar/flutter\_staggered\_grid\_view](https://github.com/letsar/flutter_staggered_grid_view) - A Flutter staggered grid view
+
+*   [shichunlei/flutter\_app](https://github.com/shichunlei/flutter_app) - 🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、tubitv、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、音乐播放器🎵、追书神器等板块
+
+*   [TheAlphamerc/flutter\_smart\_home\_app](https://github.com/TheAlphamerc/flutter_smart_home_app) - Smart home app designed in flutter
+
+*   [TheAlphamerc/flutter\_news\_app](https://github.com/TheAlphamerc/flutter_news_app) - A Simple News App built with Flutter.
+
+*   [TheAlphamerc/flutter\_wallet\_app](https://github.com/TheAlphamerc/flutter_wallet_app) - Wallet app built in flutter
+
+*   [TheAlphamerc/flutter\_twitter\_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
+
+*   [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
+
+*   [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
+
+*   [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
+
+*   [Sub6Resources/flutter\_html](https://github.com/Sub6Resources/flutter_html) - A Flutter widget for rendering static html as Flutter widgets (Will render over 80 different html tags!)
+
+*   [xujiyou/zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
+
+*   [jayden320/flutter\_shuqi](https://github.com/jayden320/flutter_shuqi) - 高仿书旗小说 Flutter版，支持iOS、Android
+
+*   [fluttercandies/flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) - A candlestick chart that supports pinch-to-zoom and panning.
+
+*   [fluttercandies/flutter\_wechat\_assets\_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI.
+
+*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
+
+*   [fluttercandies/extended\_text\_field](https://github.com/fluttercandies/extended_text_field) - extended official text field to quickly build special text like inline image, @somebody, custom background etc.
+
+*   [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
+
+*   [lukepighetti/fluro](https://github.com/lukepighetti/fluro) - Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
+
+*   [best-flutter/flutter\_swiper](https://github.com/best-flutter/flutter_swiper) - The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
+
+*   [ibhavikmakwana/FlutterPlayground](https://github.com/ibhavikmakwana/FlutterPlayground) - Playground app for Flutter
+
+*   [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
+
+*   [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - \[Examples] Simple basic isolated apps, for budding flutter devs.
+
+*   [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
+
+*   [JideGuru/FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit) - Flutter representation of a Social App Concept.
+
+*   [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
+
+*   [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) - Flutter representation of a Restaurant app UI.
+
+*   [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.
+
+*   [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
+
+*   [flutterchina/nine\_grid\_view](https://github.com/flutterchina/nine_grid_view) - Flutter NineGridView & DragSortView. Similar to Weibo / WeChat nine grid view controls to display pictures. Flutter仿微信/微博九宫格、拖拽排序，微信群组，钉钉群组，QQ讨论组头像。
+
+*   [Sky24n/common\_utils](https://github.com/Sky24n/common_utils) - Dart common utils library. DateUtil, EncryptUtil, JsonUtil, LogUtil, MoneyUtil, NumUtil, ObjectUtil,  RegexUtil, TextUtil, TimelineUtil, TimerUtil. 包含日期，正则，倒计时，时间轴等工具类。
+
+*   [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) - :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
+
+*   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
+
+*   [toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit) - 【Flutter 集录指南 App】The unity of flutter, The unity of coder.
+
+*   [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
+
+*   [samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) - A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.
+
+*   [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - \[Example APPS] Basic Flutter apps, for flutter devs.
+
+*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
+
+*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+
+*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Java
 
@@ -3470,8 +3642,6 @@ TODO
 *   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 
 *   [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) - Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天
-
-*   [weilanwl/coloruicss](https://github.com/weilanwl/coloruicss) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
 ## Objective-C
 
@@ -4223,12 +4393,6 @@ TODO
 
 *   [qwqoffice/html2wxml](https://github.com/qwqoffice/html2wxml) - 用于微信小程序的HTML和Markdown格式的富文本渲染组件，支持代码高亮
 
-*   [Kujiale-Mobile/Painter](https://github.com/Kujiale-Mobile/Painter) - 小程序生成图片库，轻松通过 json 方式绘制一张可以发到朋友圈的图片
-
-*   [TalkingData/inmap](https://github.com/TalkingData/inmap) - 大数据地理可视化
-
-*   [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
-
 ## TypeScript
 
 *   [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
@@ -4543,8 +4707,6 @@ TODO
 
 *   [vuejs/composition-api](https://github.com/vuejs/composition-api) - Composition API plugin for Vue 2
 
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
 ## Shell
 
 *   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
@@ -4563,168 +4725,6 @@ TODO
 
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-## Dart
-
-*   [afgprogrammer/Flutter-Complete-e-commerce](https://github.com/afgprogrammer/Flutter-Complete-e-commerce) - Flutter e-commerce Application  design and Animation - day 16-17
-
-*   [Sky24n/flustars](https://github.com/Sky24n/flustars) - 🔥🔥🔥  Flutter common utils library. SpUtil, ScreenUtil,WidgetUtil.  也许是目前最好用的SharedPreferences工具类。WidgetUtil 获取图片尺寸宽高, View尺寸&在屏幕上的坐标。
-
-*   [firgia/FD-Marketplace](https://github.com/firgia/FD-Marketplace) - Create mobile marketplace design using Flutter
-
-*   [DelinQu/Flutter-SpringBoot-Login-Register-CRUD](https://github.com/DelinQu/Flutter-SpringBoot-Login-Register-CRUD) - 这是编程务实实验lab4，我使用SpringBoot + Flutter技术实现了一个具有登录，注册，邮箱验证，增删改查页面，社区功能，个人中心功能的APP。
-
-*   [wuyuanwuhui99/flutter-movie-app-ui](https://github.com/wuyuanwuhui99/flutter-movie-app-ui) - 基于flutter开发的混合电影app，后端采用springboot+mybatis+mysql开发，有react-native版本，参见个人主页springboot和react-native项目包括底部tab导航,，首页，电影，电视剧，我的，搜索页，分类页，电影详情页，播放页，登录，注册，浏览记录，播放记录，收藏，缓存，电影排行榜等页面和模块，功能齐全完善，所有数据来自python爬虫程序，抓取爱奇艺和第三方电影网站实时电影数据，每周更新影片两只三次，持续更新中...
-
-*   [flyerhq/flutter\_firebase\_chat\_core](https://github.com/flyerhq/flutter_firebase_chat_core) - Actively maintained, community-driven Firebase BaaS for chat applications with an optional chat UI.
-
-*   [huangruiLearn/flutter\_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo) - Flutter仿微博客户端,  包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块
-
-*   [rohan20/flutter-in-app-localisation](https://github.com/rohan20/flutter-in-app-localisation) - In app localisation demo in Flutter
-
-*   [rohan20/flutter-chat-app](https://github.com/rohan20/flutter-chat-app) - A chat app built on Flutter with firebase authentication and image sharing capability.
-
-*   [flyerhq/flutter\_chat\_ui](https://github.com/flyerhq/flutter_chat_ui) - Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.
-
-*   [martin-ngigi/chatgpt\_flutter\_ai\_chatbot](https://github.com/martin-ngigi/chatgpt_flutter_ai_chatbot) - Open AI Chat Bot using Chat-GPT in Flutter
-
-*   [huangzhiwu1023/flutter\_Drawer](https://github.com/huangzhiwu1023/flutter_Drawer) -
-
-*   [vegasandroid/tesla-app](https://github.com/vegasandroid/tesla-app) - This mobile project created by flutter using Provider.
-
-*   [IZriouil/coffee\_app](https://github.com/IZriouil/coffee_app) -
-
-*   [swenes/chat\_message\_app\_FLUTTER](https://github.com/swenes/chat_message_app_FLUTTER) - this is a message/chat app with light and dark theme options
-
-*   [firgia/FD-Project-Management](https://github.com/firgia/FD-Project-Management) - Create responsive dashboard Project Management design using Flutter
-
-*   [mpflutter/mpflutter](https://github.com/mpflutter/mpflutter) - MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信、飞书、字节小程序以及 Web 应用开发。如果您觉得该项目还不错，可以考虑点个 Star 或者通过这个页面 https://mpflutter.com/zh/docs/support-us 支持我们哦。
-
-*   [mrezkys/marketky](https://github.com/mrezkys/marketky) - MarketKy is a Free Flutter E-Commerce App Starter Template that can help you develop an E-Commerce / Market application much faster.
-
-*   [ferdirhyme/marketplace](https://github.com/ferdirhyme/marketplace) -
-
-*   [dart-lang/site-www](https://github.com/dart-lang/site-www) - Source for Dart website
-
-*   [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-
-*   [flutter/packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
-
-*   [marcojakob/dart-event-bus](https://github.com/marcojakob/dart-event-bus) - An Event Bus using Dart Streams for decoupling applications
-
-*   [xuexiangjys/flutter\_xupdate](https://github.com/xuexiangjys/flutter_xupdate) - A Flutter plugin for XUpdate(Android Version Update Library)
-
-*   [rrousselGit/provider](https://github.com/rrousselGit/provider) - InheritedWidgets, but simple
-
-*   [Baseflow/flutter\_cached\_network\_image](https://github.com/Baseflow/flutter_cached_network_image) - Download, cache and show images in a flutter app
-
-*   [xuelongqy/flutter\_easy\_refresh](https://github.com/xuelongqy/flutter_easy_refresh) - A flutter widget that provides pull-down refresh and pull-up load.
-
-*   [xuexiangjys/flutter\_template](https://github.com/xuexiangjys/flutter_template) - The project of the empty template with Flutter has built the basic framework to realize the functions of internationalization, theme peeling, login and registration, etc.(Flutter空壳模板工程，已搭建基础框架，实现国际化、主题换肤、登录注册、自动路由注册等功能，可在此基础上简单修改实现自己的应用功能)
-
-*   [webVueBlog/egg-flutter-templates](https://github.com/webVueBlog/egg-flutter-templates) - A new Flutter project.
-
-*   [CarGuo/gsy\_github\_app\_flutter](https://github.com/CarGuo/gsy_github_app_flutter) - Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex    、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp 、原生 kotlin 版本 https://github.com/CarGuo/GSYGithubAppKotlin
-
-*   [meetqy/flutter\_dating\_template](https://github.com/meetqy/flutter_dating_template) - flutter 版本的交友 app 模板，总计页面35个，测试数据基于 mockjs 创建（A dating app template for The Flutter version, with a total of 35 pages, was created based on MockJS.）
-
-*   [yukilzw/dy\_flutter](https://github.com/yukilzw/dy_flutter) - 斗鱼直播APP :rocket: 多元化Flutter开源项目。涵盖礼物特效、手势动画、弹幕池、抽奖、鱼吧等（另提供服务端Mock接口）
-
-*   [meetqy/flutter\_luckin\_coffee](https://github.com/meetqy/flutter_luckin_coffee) - flutter luckin coffee application（仿瑞幸咖啡）
-
-*   [kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan) - 🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）
-
-*   [flutter-stripe/flutter\_stripe](https://github.com/flutter-stripe/flutter_stripe) - Flutter SDK for Stripe.
-
-*   [robertodevs/flutter\_ecommerce\_template](https://github.com/robertodevs/flutter_ecommerce_template) - This is an eCommerce minimalist template with a clean and beautiful design for Flutter.
-
-*   [jogboms/flutter\_spinkit](https://github.com/jogboms/flutter_spinkit) - ✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.
-
-*   [dnfield/flutter\_svg](https://github.com/dnfield/flutter_svg) - SVG parsing, rendering, and widget library for Flutter
-
-*   [Baseflow/flutter-permission-handler](https://github.com/Baseflow/flutter-permission-handler) - Permission plugin for Flutter. This plugin provides a cross-platform (iOS, Android) API to request and check permissions.
-
-*   [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.
-
-*   [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin) - Flutter Plugin for AppsFlyer SDK
-
-*   [letsar/flutter\_staggered\_grid\_view](https://github.com/letsar/flutter_staggered_grid_view) - A Flutter staggered grid view
-
-*   [shichunlei/flutter\_app](https://github.com/shichunlei/flutter_app) - 🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆瓣电影、tubitv、每日一文、和天气、百姓生活、随机诗词、联系人、句子迷、好奇心日报、有道精品课、高德定位、音乐播放器🎵、追书神器等板块
-
-*   [TheAlphamerc/flutter\_smart\_home\_app](https://github.com/TheAlphamerc/flutter_smart_home_app) - Smart home app designed in flutter
-
-*   [TheAlphamerc/flutter\_news\_app](https://github.com/TheAlphamerc/flutter_news_app) - A Simple News App built with Flutter.
-
-*   [TheAlphamerc/flutter\_wallet\_app](https://github.com/TheAlphamerc/flutter_wallet_app) - Wallet app built in flutter
-
-*   [TheAlphamerc/flutter\_twitter\_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
-
-*   [syncfusion/flutter-examples](https://github.com/syncfusion/flutter-examples) - This repository contains the Syncfusion Flutter UI widgets examples and the guide to use them.
-
-*   [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
-
-*   [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
-
-*   [Sub6Resources/flutter\_html](https://github.com/Sub6Resources/flutter_html) - A Flutter widget for rendering static html as Flutter widgets (Will render over 80 different html tags!)
-
-*   [xujiyou/zhihu-flutter](https://github.com/xujiyou/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅。
-
-*   [jayden320/flutter\_shuqi](https://github.com/jayden320/flutter_shuqi) - 高仿书旗小说 Flutter版，支持iOS、Android
-
-*   [fluttercandies/flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) - A candlestick chart that supports pinch-to-zoom and panning.
-
-*   [fluttercandies/flutter\_wechat\_assets\_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI.
-
-*   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
-
-*   [fluttercandies/extended\_text\_field](https://github.com/fluttercandies/extended_text_field) - extended official text field to quickly build special text like inline image, @somebody, custom background etc.
-
-*   [bluefireteam/audioplayers](https://github.com/bluefireteam/audioplayers) - A Flutter package to play multiple audio files simultaneously (Android/iOS/web/Linux/Windows/macOS)
-
-*   [lukepighetti/fluro](https://github.com/lukepighetti/fluro) - Fluro is a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.
-
-*   [best-flutter/flutter\_swiper](https://github.com/best-flutter/flutter_swiper) - The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
-
-*   [ibhavikmakwana/FlutterPlayground](https://github.com/ibhavikmakwana/FlutterPlayground) - Playground app for Flutter
-
-*   [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
-
-*   [nisrulz/flutter-examples](https://github.com/nisrulz/flutter-examples) - \[Examples] Simple basic isolated apps, for budding flutter devs.
-
-*   [FilledStacks/flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
-
-*   [JideGuru/FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit) - Flutter representation of a Social App Concept.
-
-*   [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) - A simple Flutter app to Read and Download eBooks.
-
-*   [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) - Flutter representation of a Restaurant app UI.
-
-*   [simplezhli/flutter\_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practice project.
-
-*   [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
-
-*   [flutterchina/nine\_grid\_view](https://github.com/flutterchina/nine_grid_view) - Flutter NineGridView & DragSortView. Similar to Weibo / WeChat nine grid view controls to display pictures. Flutter仿微信/微博九宫格、拖拽排序，微信群组，钉钉群组，QQ讨论组头像。
-
-*   [Sky24n/common\_utils](https://github.com/Sky24n/common_utils) - Dart common utils library. DateUtil, EncryptUtil, JsonUtil, LogUtil, MoneyUtil, NumUtil, ObjectUtil,  RegexUtil, TextUtil, TimelineUtil, TimerUtil. 包含日期，正则，倒计时，时间轴等工具类。
-
-*   [AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning) - :octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flutter示例代码和模板，Flutter项目实战，Dart语言学习示例代码。
-
-*   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-
-*   [toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit) - 【Flutter 集录指南 App】The unity of flutter, The unity of coder.
-
-*   [firebase/flutterfire](https://github.com/firebase/flutterfire) - 🔥 A collection of Firebase plugins for Flutter apps.
-
-*   [samarthagarwal/FlutterScreens](https://github.com/samarthagarwal/FlutterScreens) - A collection of Screens and attractive UIs built with Flutter ready to be used in your applications. No external libraries are used. Just download, add to your project and use.
-
-*   [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps) - \[Example APPS] Basic Flutter apps, for flutter devs.
-
-*   [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-
-*   [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-
-*   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
 ## Go
 
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -4733,7 +4733,7 @@ TODO
 
 *   [qax-os/ElasticHD](https://github.com/qax-os/ElasticHD) - Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
 
-*   [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+*   [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
 *   [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
 
