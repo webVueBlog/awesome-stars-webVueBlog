@@ -4936,7 +4936,7 @@ TODO
 
 *   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥         推荐免费ChatGPT网站：https://www.lintcode.com/chat-gpt?utm\_source=tf-github-codetop
 
-*   [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021/2022)
+*   [vue3/vue3-News](https://github.com/vue3/vue3-News) - 🔥 Find the latest breaking Vue3、Vue CLI 3+ & Vite  News. (2021/2022/2023)
 
 *   [yzsunlei/javascript\_concurrency\_translation](https://github.com/yzsunlei/javascript_concurrency_translation) - 《JavaScript Concurrency》英文版全书翻译 ->《JavaScript并发编程》，主要内容是Promises, Generators, Web Workers实现JavaScript并发编程相关
 
