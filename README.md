@@ -3292,7 +3292,7 @@ TODO
 
 *   [huangzhiwu1023/flutter\_Drawer](https://github.com/huangzhiwu1023/flutter_Drawer) -
 
-*   [vegasandroid/tesla-app](https://github.com/vegasandroid/tesla-app) - This mobile project created by flutter using Provider.
+*   [neillchan/tesla-app](https://github.com/neillchan/tesla-app) - This mobile project created by flutter using Provider.
 
 *   [IZriouil/coffee\_app](https://github.com/IZriouil/coffee_app) -
 
