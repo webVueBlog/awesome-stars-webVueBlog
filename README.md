@@ -3254,6 +3254,8 @@ TODO
 
 ## Java
 
+*   [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
+
 *   [junneyang/xxproject](https://github.com/junneyang/xxproject) - SpringCloud 微服务综合实例。分布式配置中心，服务发现&负载均衡，链路断路器，API网关，OAuth2认证授权，分布式追踪，ELK日志中心，Ansible/Docker持续交付等最佳实践。
 
 *   [vangao1989/cloudE](https://github.com/vangao1989/cloudE) - 基于spring cloud的分布式系统架构。提供整套的微服务组件，包括服务发现、服务治理、链路追踪、服务监控等
@@ -4947,8 +4949,6 @@ TODO
 *   [xdmjun/wxappUnpacker](https://github.com/xdmjun/wxappUnpacker) -
 
 *   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
-
-*   [imgcook/imgcook](https://github.com/imgcook/imgcook) - Generate pages from any sketch or images.
 
 ## MDX
 
