@@ -3220,6 +3220,7 @@ TODO
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Dart](#dart)
@@ -3227,7 +3228,6 @@ TODO
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Objective-C](#objective-c)
-*   [Shell](#shell)
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
 *   [miscellaneous](#miscellaneous)
@@ -3251,6 +3251,28 @@ TODO
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
+
+*   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
+
+*   [webVueBlog/learn-web](https://github.com/webVueBlog/learn-web) - 🚴一份 🚀 涵盖大部分程序员所需要掌握的知识 🚄。
+
+*   [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
+
+*   [tj/n](https://github.com/tj/n) - Node version management
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+*   [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
+
+*   [learn-docs/learn-TypeScript](https://github.com/learn-docs/learn-TypeScript) - 🔥 learn-TypeScript 文档 https://learn-docs.github.io/learn-TypeScript/
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## Vue
 
@@ -4434,7 +4456,7 @@ TODO
 
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 
 *   [webVueBlog/umi-poster](https://github.com/webVueBlog/umi-poster) - 海报，封面生成器
 
@@ -4708,8 +4730,6 @@ TODO
 
 *   [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 
-*   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-
 ## Go
 
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -4735,26 +4755,6 @@ TODO
 *   [ccgus/fmdb](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
 
 *   [fikovnik/ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
-
-## Shell
-
-*   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
-
-*   [webVueBlog/learn-web](https://github.com/webVueBlog/learn-web) - 🚴一份 🚀 涵盖大部分程序员所需要掌握的知识 🚄。
-
-*   [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
-
-*   [tj/n](https://github.com/tj/n) - Node version management
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
-*   [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
-
-*   [learn-docs/learn-TypeScript](https://github.com/learn-docs/learn-TypeScript) - 🔥 learn-TypeScript 文档 https://learn-docs.github.io/learn-TypeScript/
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## Python
 
