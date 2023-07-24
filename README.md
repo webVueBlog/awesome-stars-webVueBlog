@@ -4768,8 +4768,6 @@ TODO
 
 *   [Quan666/ELFChatBot](https://github.com/Quan666/ELFChatBot) - 闲聊QQ机器人，也就是人工智障
 
-*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
-
 *   [A-kirami/nonebot-plugin-aidraw](https://github.com/A-kirami/nonebot-plugin-aidraw) - nonebot2 AI 绘图
 
 *   [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -4953,6 +4951,8 @@ TODO
 ## MDX
 
 *   [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
 *   [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️ Front End interview preparation materials for busy engineers
 
