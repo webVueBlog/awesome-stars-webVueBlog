@@ -3254,6 +3254,10 @@ TODO
 
 ## Java
 
+*   [zhoutaoo/SpringCloud](https://github.com/zhoutaoo/SpringCloud) - 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中
+
+*   [simplepeng/HeGuiChecker](https://github.com/simplepeng/HeGuiChecker) - 🔥🔥🔥  基于Hook方案的合规化检测器
+
 *   [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 
 *   [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
@@ -4995,10 +4999,6 @@ TODO
 *   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-
-*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Starlark
 
