@@ -3516,7 +3516,7 @@ TODO
 
 *   [fluttercandies/flutter-interactive-chart](https://github.com/fluttercandies/flutter-interactive-chart) - A candlestick chart that supports pinch-to-zoom and panning.
 
-*   [fluttercandies/flutter\_wechat\_assets\_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An image picker (also with videos and audios) for Flutter projects based on the WeChat's UI.
+*   [fluttercandies/flutter\_wechat\_assets\_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) - An image picker (also with video and audio) for Flutter projects based on the WeChat's UI.
 
 *   [fluttercandies/extended\_image](https://github.com/fluttercandies/extended_image) - A powerful official extension library of image, which support placeholder(loading)/ failed state, cache network, zoom pan image, photo view, slide out page, editor(crop,rotate,flip), paint custom etc.
 
