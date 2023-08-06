@@ -3220,6 +3220,7 @@ TODO
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Shell](#shell)
@@ -3239,8 +3240,7 @@ TODO
 *   [Groovy](#groovy)
 *   [Rust](#rust)
 *   [Ruby](#ruby)
-*   [C](#c)
-*   [C++](#c-1)
+*   [C](#c-1)
 *   [CSS](#css)
 *   [PHP](#php)
 *   [OCaml](#ocaml)
@@ -3251,7 +3251,31 @@ TODO
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
 
+## C++
+
+*   [shiniwat/animated\_battery\_gauge](https://github.com/shiniwat/animated_battery_gauge) - A simple, easily customizable battery widget
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
+
+*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
 ## Dart
+
+*   [onyx-lyon1/requests\_plus](https://github.com/onyx-lyon1/requests_plus) -
+
+*   [acx70/flutterflow\_widgets](https://github.com/acx70/flutterflow_widgets) - Flutter widget gallery for FlutterFlow.
+
+*   [EightDoor/tform](https://github.com/EightDoor/tform) - A easy, extensible and dynamic flutter form framework. Support for custom selectors, validators and widgets. Support form verification, insert, delete and so on.
+
+*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
+*   [softwarearchitect817/flutterbase-taxi](https://github.com/softwarearchitect817/flutterbase-taxi) - A large variety of apps depend on map services. The purpose of this project was to test Google Map Services in connection with Flutter on Android, iOS and Web platforms. Here is what I got:
+
+*   [TechFusionHQ/tf\_form](https://github.com/TechFusionHQ/tf_form) - TechFusion form builder and validator
 
 *   [rzrobert/RBallView](https://github.com/rzrobert/RBallView) - 一个自动旋转的仿3D球体
 
@@ -3294,8 +3318,6 @@ TODO
 *   [abdul-basit-dev/Tinder-Swipe-Cards--Flutter-UI](https://github.com/abdul-basit-dev/Tinder-Swipe-Cards--Flutter-UI) - Tinder Swipe Cards- Flutter UI
 
 *   [MarcusNg/flutter\_facebook\_responsive\_ui](https://github.com/MarcusNg/flutter_facebook_responsive_ui) - https://youtu.be/HvLb5gdUfDE
-
-*   [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
 
 *   [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 
@@ -3722,12 +3744,6 @@ TODO
 *   [vincentzyc/form-design](https://github.com/vincentzyc/form-design) - 动态表单页面设计--自动生成页面
 
 *   [lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
-
-*   [caohuatao/vue-super-flow](https://github.com/caohuatao/vue-super-flow) - Flow chart component based on Vue。vue flowchart
-
-*   [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-
-*   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 
 ## JavaScript
 
@@ -4433,10 +4449,6 @@ TODO
 
 *   [youzan/weapp-plugin-demo](https://github.com/youzan/weapp-plugin-demo) - 有赞微商城所有小程序插件的演示demo
 
-*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
-
-*   [PanJiaChen/electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) -  vue electron admin template web: http://panjiachen.github.io/vue-admin-template
-
 ## TypeScript
 
 *   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
@@ -4743,8 +4755,6 @@ TODO
 
 *   [vuejs/rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 
-*   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-
 ## Go
 
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -5046,16 +5056,6 @@ TODO
 *   [yangkun19921001/AVSample](https://github.com/yangkun19921001/AVSample) - 0 基础音视频进阶路线 (MediaCodec、FFmpeg、OpenCV、OpenGL、短视频 SDK、音视频播放器、webrtc)
 
 *   [leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷
-
-## C++
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [flutter-webrtc/flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
-
-*   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
-
-*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## CSS
 
