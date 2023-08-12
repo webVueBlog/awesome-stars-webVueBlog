@@ -4458,7 +4458,7 @@ TODO
 
 ## Kotlin
 
-*   [fluttercommunity/flutter\_downloader](https://github.com/fluttercommunity/flutter_downloader) - Flutter Downloader - A plugin for creating and managing download tasks. NO MAINTAINER
+*   [fluttercommunity/flutter\_downloader](https://github.com/fluttercommunity/flutter_downloader) - Flutter Downloader - A plugin for creating and managing download tasks.
 
 *   [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 
@@ -4654,7 +4654,7 @@ TODO
 
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
-*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
+*   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
 
 *   [webVueBlog/umi-poster](https://github.com/webVueBlog/umi-poster) - 海报，封面生成器
 
