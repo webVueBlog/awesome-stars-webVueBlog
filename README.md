@@ -4034,7 +4034,7 @@ TODO
 
 *   [BBarisKilic/Editable-Image](https://github.com/BBarisKilic/Editable-Image) - Flutter package for creating a fully customizable and editable image widget. The package has been written solely in Dart Language.
 
-*   [drexsoftorg/places\_picker](https://github.com/drexsoftorg/places_picker) - A Flutter plugin which provides 'Picking Place' using Google Maps widget.
+*   [cybroidtech/places\_picker](https://github.com/cybroidtech/places_picker) - A Flutter plugin which provides 'Picking Place' using Google Maps widget.
 
 *   [block7code/costum\_widgets](https://github.com/block7code/costum_widgets) -
 
@@ -4552,7 +4552,7 @@ TODO
 
 *   [collab-project/videojs-wavesurfer](https://github.com/collab-project/videojs-wavesurfer) - video.js plugin that adds a navigable waveform for audio and video files
 
-*   [koalaylj/xlsx2json](https://github.com/koalaylj/xlsx2json) - convert excel to json ,support object/array/number/bool data type.
+*   [zk-luke/xlsx2json](https://github.com/zk-luke/xlsx2json) - convert excel to json ,support object/array/number/bool data type.
 
 *   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 
