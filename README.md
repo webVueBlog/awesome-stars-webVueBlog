@@ -3220,6 +3220,7 @@ TODO
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
@@ -3229,7 +3230,6 @@ TODO
 *   [C#](#c)
 *   [Erlang](#erlang)
 *   [Kotlin](#kotlin)
-*   [Swift](#swift)
 *   [C++](#c-1)
 *   [Vue](#vue)
 *   [Go](#go)
@@ -3254,6 +3254,12 @@ TODO
 *   [Stylus](#stylus)
 *   [Less](#less)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
+
+*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
 
 ## Java
 
@@ -4979,10 +4985,6 @@ TODO
 
 *   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
-## Swift
-
-*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
-
 ## C++
 
 *   [shiniwat/animated\_battery\_gauge](https://github.com/shiniwat/animated_battery_gauge) - A simple, easily customizable battery widget
@@ -5218,8 +5220,6 @@ TODO
 *   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-
-*   [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 
 ## Starlark
 
