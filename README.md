@@ -4161,7 +4161,7 @@ TODO
 
 ## TypeScript
 
-*   [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder without private schema. Integrate low-code into your local development workflow seamlessly.
+*   [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly.
 
 *   [emqx/MQTTX](https://github.com/emqx/MQTTX) - A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket.
 
