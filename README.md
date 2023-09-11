@@ -3220,8 +3220,8 @@ TODO
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [Java](#java)
+*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
@@ -3255,13 +3255,11 @@ TODO
 *   [Less](#less)
 *   [Thanks](#thanks)
 
-## Swift
-
-*   [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
-
-*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
-
 ## Java
+
+*   [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
+
+*   [Netflix/astyanax](https://github.com/Netflix/astyanax) - Cassandra Java Client
 
 *   [pjmike/springboot-netty](https://github.com/pjmike/springboot-netty) - SpringBoot 整合 Netty 实战
 
@@ -3432,6 +3430,12 @@ TODO
 *   [xiaoqi6666/NYCSDE](https://github.com/xiaoqi6666/NYCSDE) - 公众号【码农田小齐】的分类合集
 
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+
+## Swift
+
+*   [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
+
+*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
 
 ## JavaScript
 
@@ -4283,7 +4287,7 @@ TODO
 
 *   [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 
-*   [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，同时也可以作为一个开箱即用的富文本编辑器，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
+*   [textbus/textbus](https://github.com/textbus/textbus) - Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！
 
 *   [javascript-obfuscator/webpack-obfuscator](https://github.com/javascript-obfuscator/webpack-obfuscator) - javascript-obfuscator plugin for Webpack
 
@@ -4652,8 +4656,6 @@ TODO
 *   [sunniejs/wx-h5-mall](https://github.com/sunniejs/wx-h5-mall) - 微信商城
 
 *   [xdmjun/wxappUnpacker](https://github.com/xdmjun/wxappUnpacker) -
-
-*   [vue-bulma/vue-admin](https://github.com/vue-bulma/vue-admin) - We are refactoring it, using the latest Vue and Bulma. WIP
 
 ## Dart
 
@@ -5109,8 +5111,6 @@ TODO
 
 *   [ElemeFE/mint-ui](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js
 
-*   [iview/iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-
 ## Go
 
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -5217,7 +5217,7 @@ TODO
 
 *   [ElemeFE/node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
 
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 
