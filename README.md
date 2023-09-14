@@ -3221,8 +3221,8 @@ TODO
 ## Table of Contents
 
 *   [Java](#java)
-*   [Swift](#swift)
 *   [JavaScript](#javascript)
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -3256,6 +3256,8 @@ TODO
 *   [Thanks](#thanks)
 
 ## Java
+
+*   [didi/DoKit](https://github.com/didi/DoKit) - 一款面向泛前端产品研发全生命周期的效率平台。
 
 *   [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
 
@@ -3431,13 +3433,9 @@ TODO
 
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 
-## Swift
-
-*   [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
-
-*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
-
 ## JavaScript
+
+*   [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 
 *   [amfe/lib-flexible](https://github.com/amfe/lib-flexible) - 可伸缩布局方案
 
@@ -4165,6 +4163,12 @@ TODO
 
 *   [sunniejs/vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - vue生成海报图，一个通过 css 属性画 canvas 图片的轻量级的 vue 组件 (Vue poster,a lightweight vue component that draws canvas images via css properties.)
 
+## Swift
+
+*   [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
+
+*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
+
 ## TypeScript
 
 *   [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly.
@@ -4655,8 +4659,6 @@ TODO
 
 *   [sunniejs/wx-h5-mall](https://github.com/sunniejs/wx-h5-mall) - 微信商城
 
-*   [xdmjun/wxappUnpacker](https://github.com/xdmjun/wxappUnpacker) -
-
 ## Dart
 
 *   [cfug/flutter.cn](https://github.com/cfug/flutter.cn) - Flutter CN docs translation plan, get started from the wiki: https://github.com/cfug/flutter.cn/wiki
@@ -5123,7 +5125,7 @@ TODO
 
 *   [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 
-*   [tealeg/xlsx](https://github.com/tealeg/xlsx) - (No longer maintained!) Go (golang) library for reading and writing XLSX files.
+*   [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
@@ -5310,8 +5312,6 @@ TODO
 ## SCSS
 
 *   [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
-
-*   [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 
 ## Stylus
 
