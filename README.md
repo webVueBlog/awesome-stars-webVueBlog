@@ -3647,7 +3647,7 @@ TODO
 
 *   [nice-people-frontend-community/nice-handwriting-practice](https://github.com/nice-people-frontend-community/nice-handwriting-practice) -
 
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 *   [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
 
