@@ -3223,14 +3223,14 @@ TODO
 *   [JavaScript](#javascript)
 *   [PLpgSQL](#plpgsql)
 *   [Java](#java)
-*   [Swift](#swift)
+*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
 *   [C#](#c)
 *   [Erlang](#erlang)
-*   [Kotlin](#kotlin)
+*   [Swift](#swift)
 *   [C++](#c-1)
 *   [Vue](#vue)
 *   [Go](#go)
@@ -4173,11 +4173,15 @@ TODO
 
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 
-## Swift
+## Kotlin
 
 *   [emqx/MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) - MQTT Client Examples
 
-*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
+*   [fluttercommunity/flutter\_downloader](https://github.com/fluttercommunity/flutter_downloader) - Flutter Downloader - A plugin for creating and managing download tasks.
+
+*   [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
 ## TypeScript
 
@@ -4989,13 +4993,9 @@ TODO
 
 *   [emqx/emqx](https://github.com/emqx/emqx) - The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles
 
-## Kotlin
+## Swift
 
-*   [fluttercommunity/flutter\_downloader](https://github.com/fluttercommunity/flutter_downloader) - Flutter Downloader - A plugin for creating and managing download tasks.
-
-*   [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+*   [GigaDroid/flutter\_udid](https://github.com/GigaDroid/flutter_udid) - Plugin to retrieve a persistent UDID across app reinstalls on iOS and Android.
 
 ## C++
 
