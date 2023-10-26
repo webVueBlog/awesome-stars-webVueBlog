@@ -3821,7 +3821,7 @@ TODO
 
 *   [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 
-*   [30-seconds/30-seconds-of-interviews](https://github.com/30-seconds/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
+*   [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 
 *   [wallstreetcn/vue-ssr-boilerplate](https://github.com/wallstreetcn/vue-ssr-boilerplate) - Vue.js Server Side Rendering Boilerplate without Polluting Vuex
 
