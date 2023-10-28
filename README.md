@@ -3983,8 +3983,6 @@ TODO
 
 *   [yzsunlei/special-vue-series-code-analyzing](https://github.com/yzsunlei/special-vue-series-code-analyzing) - 「Vue生态库源码系列」,Vue、Vue-router、Vuex、Vue-cli、Vue-loader、Vue-devtools等
 
-*   [logoove/weui](https://github.com/logoove/weui) - weui+是在weui和zepto基础上开发的增强UI组件,目前分为表单,基础,组件,js插件四大类,共计百余项功能,是最全的weui样式
-
 *   [MyNameisQiShiQi/radarCanvas](https://github.com/MyNameisQiShiQi/radarCanvas) - 微信小程序  雷达图组件 component
 
 *   [sunniejs/vue-canvas-poster](https://github.com/sunniejs/vue-canvas-poster) - vue生成海报图，一个通过 css 属性画 canvas 图片的轻量级的 vue 组件 (Vue poster,a lightweight vue component that draws canvas images via css properties.)
@@ -5229,6 +5227,8 @@ TODO
 
 *   [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 
+*   [logoove/weui](https://github.com/logoove/weui) - weui+是在weui和zepto基础上开发的增强UI组件,目前分为表单,基础,组件,js插件四大类,共计百余项功能,是最全的weui样式
+
 ## Starlark
 
 *   [rabbitmq/rabbitmq-server](https://github.com/rabbitmq/rabbitmq-server) - Open source RabbitMQ: core server and tier 1 (built-in) plugins
@@ -5239,7 +5239,7 @@ TODO
 
 ## Rust
 
-*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
+*   [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 
 *   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 
