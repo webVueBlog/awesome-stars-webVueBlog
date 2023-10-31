@@ -4157,7 +4157,7 @@ TODO
 
 *   [SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
 
-*   [lancedikson/bowser](https://github.com/lancedikson/bowser) - a browser detector
+*   [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector
 
 *   [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) - JavaScript image compressor.
 
