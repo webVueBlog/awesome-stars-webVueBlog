@@ -4677,9 +4677,9 @@ TODO
 
 *   [Vadaski/flutter\_exposure](https://github.com/Vadaski/flutter_exposure) - flutter 埋点曝光方案
 
-*   [yy1300326388/flutter\_drink\_login\_app](https://github.com/yy1300326388/flutter_drink_login_app) - Speed Code 2 - 漂亮的饮料食谱 App
+*   [BytesZero/flutter\_drink\_login\_app](https://github.com/BytesZero/flutter_drink_login_app) - Speed Code 2 - 漂亮的饮料食谱 App
 
-*   [yy1300326388/loadany](https://github.com/yy1300326388/loadany) - Flutter load more package , support ListView、GridView、Slivers
+*   [BytesZero/loadany](https://github.com/BytesZero/loadany) - Flutter load more package , support ListView、GridView、Slivers
 
 *   [janoodleFTW/timy-messenger](https://github.com/janoodleFTW/timy-messenger) - Timy - open source mobile app for groups to communicate and organize themselves. Built with flutter.
 
