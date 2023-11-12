@@ -3220,20 +3220,22 @@ TODO
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [Shell](#shell)
+*   [PHP](#php)
+*   [Scala](#scala)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [JavaScript](#javascript)
 *   [PLpgSQL](#plpgsql)
 *   [Kotlin](#kotlin)
-*   [Shell](#shell)
 *   [Dart](#dart)
 *   [C#](#c)
 *   [Erlang](#erlang)
 *   [Swift](#swift)
 *   [C++](#c-1)
 *   [Vue](#vue)
-*   [Go](#go)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
 *   [Dockerfile](#dockerfile)
@@ -3246,7 +3248,6 @@ TODO
 *   [Ruby](#ruby)
 *   [C](#c-2)
 *   [CSS](#css)
-*   [PHP](#php)
 *   [OCaml](#ocaml)
 *   [Markdown](#markdown)
 *   [Bikeshed](#bikeshed)
@@ -3254,6 +3255,76 @@ TODO
 *   [SCSS](#scss)
 *   [Stylus](#stylus)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [redpanda-data/console](https://github.com/redpanda-data/console) - Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+
+*   [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+
+*   [hootrhino/rulex](https://github.com/hootrhino/rulex) - 轻量级边缘物联网网关开发框架
+
+*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+
+*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
+*   [qax-os/ElasticHD](https://github.com/qax-os/ElasticHD) - Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
+
+*   [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+
+*   [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
+
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+
+*   [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
+
+## Shell
+
+*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+
+*   [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
+
+*   [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
+
+*   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
+
+*   [webVueBlog/learn-web](https://github.com/webVueBlog/learn-web) - 🚴一份 🚀 涵盖大部分程序员所需要掌握的知识 🚄。
+
+*   [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
+
+*   [tj/n](https://github.com/tj/n) - Node version management
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+*   [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
+
+*   [learn-docs/learn-TypeScript](https://github.com/learn-docs/learn-TypeScript) - 🔥 learn-TypeScript 文档 https://learn-docs.github.io/learn-TypeScript/
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+## PHP
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
+
+*   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin is a background management system based on secondary development of Laravel and Element Plus. CatchAdmin still adopts the traditional front-end and back-end separation strategy, and the Laravel framework is only used as an Api output. Coupling between management system modules is minimized
+
+## Scala
+
+*   [yahoo/CMAK](https://github.com/yahoo/CMAK) - CMAK is a tool for managing Apache Kafka clusters
 
 ## TypeScript
 
@@ -3566,8 +3637,6 @@ TODO
 *   [vuejs/rollup-plugin-vue](https://github.com/vuejs/rollup-plugin-vue) - Roll .vue files
 
 *   [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-
-*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 
 ## miscellaneous
 
@@ -4627,16 +4696,6 @@ TODO
 
 *   [youzan/weapp-plugin-demo](https://github.com/youzan/weapp-plugin-demo) - 有赞微商城所有小程序插件的演示demo
 
-*   [PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
-
-*   [PanJiaChen/electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin) -  vue electron admin template web: http://panjiachen.github.io/vue-admin-template
-
-*   [vuejs-templates/webpack](https://github.com/vuejs-templates/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
-
-*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的动态表单生成器|form-create is a form generation component that can generate dynamic rendering, data collection, verification and submission functions through JSON.
-
-*   [sunshine940326/canvas](https://github.com/sunshine940326/canvas) -
-
 ## PLpgSQL
 
 *   [chillzhuang/SpringBlade](https://github.com/chillzhuang/SpringBlade) - SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java8 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 2.7 、Spring Cloud 2021 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。
@@ -4648,30 +4707,6 @@ TODO
 *   [fluttercommunity/flutter\_downloader](https://github.com/fluttercommunity/flutter_downloader) - Flutter Downloader - A plugin for creating and managing download tasks.
 
 *   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-## Shell
-
-*   [wurstmeister/kafka-docker](https://github.com/wurstmeister/kafka-docker) - Dockerfile for Apache Kafka
-
-*   [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
-
-*   [nacos-group/nacos-docker](https://github.com/nacos-group/nacos-docker) - This project contains a Docker image meant to facilitate the deployment of Nacos .
-
-*   [webVueBlog/learn-web](https://github.com/webVueBlog/learn-web) - 🚴一份 🚀 涵盖大部分程序员所需要掌握的知识 🚄。
-
-*   [armbian/build](https://github.com/armbian/build) - Armbian Linux Build Framework
-
-*   [tj/n](https://github.com/tj/n) - Node version management
-
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
-*   [haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial) - 🃏《Jest 实践指南》
-
-*   [learn-docs/learn-TypeScript](https://github.com/learn-docs/learn-TypeScript) - 🔥 learn-TypeScript 文档 https://learn-docs.github.io/learn-TypeScript/
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## Dart
 
@@ -5117,28 +5152,6 @@ TODO
 
 *   [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
 
-*   [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-
-## Go
-
-*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-
-*   [qax-os/ElasticHD](https://github.com/qax-os/ElasticHD) - Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
-
-*   [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-
-*   [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
-
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
-*   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-
-*   [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
-
 ## Objective-C
 
 *   [ccgus/fmdb](https://github.com/ccgus/fmdb) - A Cocoa / Objective-C wrapper around SQLite
@@ -5286,16 +5299,6 @@ TODO
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 *   [mladenplavsic/css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
-
-## PHP
-
-*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [kuaifan/dootask](https://github.com/kuaifan/dootask) - DooTask是一款开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全。
-
-*   [JaguarJack/catch-admin](https://github.com/JaguarJack/catch-admin) - CatchAdmin is a background management system based on secondary development of Laravel and Element Plus. CatchAdmin still adopts the traditional front-end and back-end separation strategy, and the Laravel framework is only used as an Api output. Coupling between management system modules is minimized
 
 ## OCaml
 
